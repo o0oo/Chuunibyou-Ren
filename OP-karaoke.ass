@@ -33,6 +33,7 @@ Style: Romaji v5,Gabriola,90,&H00BCF8F6,&H00848484,&H000E6D99,&H00000000,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+<<<<<<< HEAD
 Comment: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,I wanna fall in love.
 Comment: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,盗汗夢が続く
 Comment: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,約束しても、心がどこかで怯えてるみたい
@@ -1111,3 +1112,51 @@ Dialogue: 0,0:02:24.02,0:02:27.32,Romaji,,0,0,0,fx,{\pos(804,20)\bord3\be1\fad(0
 Dialogue: 0,0:02:21.58,0:02:24.02,Romaji,,0,0,0,fx,{\pos(846-200,20-200)\t(0,200\pos(846,20))\fad(200,0)}yo
 Dialogue: 0,0:02:24.02,0:02:26.94,Romaji,,0,0,0,fx,{\bord2\be2\pos(846,65)\an5\t(0,1460,\fscx130\fscy130\frz3\c&HCDC4FF&\3c&H4B1BAC&\bord2\be3)\t(1460,2920,\fs90)}yo
 Dialogue: 0,0:02:26.94,0:02:27.38,Romaji,,0,0,0,fx,{\pos(846,20)\bord3\be1\fad(0,200)\bord3\1a&H00&\3a&H05&\4a&H90}yo
+=======
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,I wanna fall in love.
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,盗汗夢が続く
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,約束しても、心がどこかで怯えてるみたい
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,一人じゃないって　信じたいのに
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,思い続けてるだけで　幸せなんて言えないね
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,虚ろな自信　背負っていても　君が笑う
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,そして私の勇気になる
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,一つの言葉で君の世界を変えられたら、
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,二つの恋が進化する
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,本当だよ
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,巡らせた迷いが見つけた答えはいつでも君に導かれた
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,届ける覚悟が様にならなくても素直に伝えたい
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,心あるがまま　声がきらめく
+Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,With the voice 響き渡るよ
+Dialogue: 0,0:01:04.82,0:01:08.51,Romaji,,0,0,0,,{\k16}I {\k16}wan{\k17}na {\k32}fall {\k16}in {\k272}love
+Dialogue: 0,0:01:21.55,0:01:25.48,Romaji,,0,0,0,,{\k58}tou{\k73}kan{\k21} {\k17}yu{\k16}me {\k30}ga {\k18}tsu{\k17}dzu{\k143}ku
+Dialogue: 0,0:01:25.67,0:01:31.05,Romaji,,0,0,0,,{\k17}ya{\k11}ku{\k23}so{\k9}ku {\k22}shi{\k17}te {\k32}mo, {\k17}ko{\k16}ko{\k16}ro {\k34}ga {\k15}do{\k17}ko {\k16}ka {\k11}de{\k21} {\k16}o{\k17}bi{\k17}e {\k17}te{\k16}ru {\k48}mi{\k113}tai
+Dialogue: 0,0:01:31.69,0:01:37.05,Romaji,,0,0,0,,{\k34}hi{\k81}to{\k16}ri {\k19}ja{\k31}na{\k34}i {\k48}tte{\k12} {\k21}shi{\k48}n{\k50}ji{\k34}ta{\k47}i{\k19}no{\k42}ni
+Dialogue: 0,0:01:37.24,0:01:42.65,Romaji,,0,0,0,,{\k52}o{\k15}mo{\k15}i {\k13}tsu{\k21}dzu{\k33}ke {\k17}te{\k48}ru {\k15}da{\k16}ke{\k9}de {\k57}shi{\k33}a{\k16}wa{\k17}se {\k16}na{\k16}n{\k17}te {\k15}i{\k35}e{\k16}na{\k15}i {\k34}ne
+Dialogue: 0,0:01:42.79,0:01:48.86,Romaji,,0,0,0,,{\k13}u{\k22}tsu{\k15}ro{\k31}na {\k27}ji{\k24}shi{\k21}n {\k31}se{\k31}wo{\k31}tte {\k16}i{\k17}te {\k32}mo{\k33} {\k16}ki{\k33}mi {\k32}ga {\k33}wa{\k34}ra{\k115}u
+Dialogue: 0,0:01:49.78,0:01:52.81,Romaji,,0,0,0,,{\k15}so{\k21}shi{\k16}te {\k16}wa{\k11}ta{\k22}shi {\k31}no{\k18} {\k16}yu{\k16}u{\k17}ki {\k26}ni{\k23} {\k34}na{\k21}ru
+Dialogue: 0,0:01:52.88,0:01:57.25,Romaji,,0,0,0,,{\k17}hi{\k18}to{\k17}tsu {\k16}no {\k25}ko{\k24}to{\k16}ba {\k49}de {\k33}ki{\k15}mi {\k14}no {\k20}se{\k18}ka{\k15}i {\k16}o {\k16}ka{\k16}e {\k17}ra{\k16}re{\k18}ta{\k41}ra
+Dialogue: 0,0:01:57.46,0:02:01.77,Romaji,,0,0,0,,{\k25}fu{\k23}ta{\k19}tsu {\k63}no {\k35}ko{\k15}i {\k13}ga {\k37}shi{\k16}n{\k25}ka {\k41}su{\k119}ru
+Dialogue: 0,0:02:01.96,0:02:03.32,Romaji,,0,0,0,,{\k33}ho{\k24}n{\k16}tou {\k32}da {\k31}yo
+Dialogue: 0,0:02:03.32,0:02:07.24,Romaji,,0,0,0,,{\k35}me{\k17}gu{\k31}ra{\k33}se{\k49}ta {\k17}ma{\k32}yo{\k16}i {\k34}ga {\k29}mi{\k19}tsu{\k32}ke{\k33}ta
+Dialogue: 0,0:02:07.24,0:02:11.14,Romaji,,0,0,0,,{\k33}ko{\k17}ta{\k32}e {\k52}wa {\k13}i{\k18}tsu {\k15}de{\k29}mo {\k19}ki{\k18}mi {\k32}ni {\k15}mi{\k18}chi{\k30}bi{\k20}ka {\k14}re{\k14}ta
+Dialogue: 0,0:02:11.14,0:02:15.85,Romaji,,0,0,0,,{\k18}to{\k18}do{\k15}ke{\k14}ru {\k27}ka{\k26}ku{\k15}go {\k45}ga{\k15} {\k32}sa{\k23}ma {\k17}ni {\k31}na{\k18}ra{\k30}na{\k18}ku{\k17}te {\k93}mo
+Dialogue: 0,0:02:15.85,0:02:18.35,Romaji,,0,0,0,,{\k21}su{\k16}na{\k16}o {\k46}ni {\k36}tsu{\k15}ta{\k18}e{\k81}tai
+Dialogue: 0,0:02:18.48,0:02:21.11,Romaji,,0,0,0,,{\k18}ko{\k18}ko{\k15}ro {\k17}a{\k16}ru{\k16}ga{\k17}ma{\k16}ma {\k17}ko{\k17}e {\k15}ga {\k17}ki{\k16}ra{\k17}me{\k31}ku
+Dialogue: 0,0:02:21.26,0:02:26.94,Romaji,,0,0,0,,{\k18}with {\k17}the {\k63}voi{\k18}ce{\k16} {\k33}hi{\k33}bi{\k16}ki {\k32}wa{\k17}ta{\k13}ru {\k292}yo
+Dialogue: 0,0:01:04.82,0:01:08.51,TL,,0,0,0,,I wanna fall in love
+Dialogue: 0,0:01:21.55,0:01:25.48,TL,,0,0,0,,The nightmares continue
+Dialogue: 0,0:01:25.67,0:01:31.05,TL,,0,0,0,,Even with our promise, there's fear in my heart
+Dialogue: 0,0:01:31.69,0:01:37.05,TL,,0,0,0,,I really want to believe that I'm not alone
+Dialogue: 0,0:01:37.24,0:01:42.65,TL,,0,0,0,,Just thinking can't be called happiness
+Dialogue: 0,0:01:42.79,0:01:48.86,TL,,0,0,0,,Even though you lack self-confidence, you smile
+Dialogue: 0,0:01:49.78,0:01:52.81,TL,,0,0,0,,So become my courage
+Dialogue: 0,0:01:52.88,0:01:57.25,TL,,0,0,0,,When one word can change your world
+Dialogue: 0,0:01:57.46,0:02:01.77,TL,,0,0,0,,Both of our loves will evolve
+Dialogue: 0,0:02:01.96,0:02:03.32,TL,,0,0,0,,That's the truth
+Dialogue: 0,0:02:03.32,0:02:07.24,TL,,0,0,0,,When confusion surrounded me
+Dialogue: 0,0:02:07.24,0:02:11.14,TL,,0,0,0,,The answer always led to you
+Dialogue: 0,0:02:11.14,0:02:15.85,TL,,0,0,0,,Even if I'm never prepared to tell you
+Dialogue: 0,0:02:15.85,0:02:18.35,TL,,0,0,0,,I want to let you know
+Dialogue: 0,0:02:18.48,0:02:21.11,TL,,0,0,0,,My voice glistens with the contents of my heart
+Dialogue: 0,0:02:21.26,0:02:26.94,TL,,0,0,0,,With the voice, it echoes!
+>>>>>>> 196832e04e6a2a687005a7520514b2515f4cfd66
