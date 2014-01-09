@@ -4,18 +4,16 @@
 Title: Baka-Chi Subs
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 848
-PlayResY: 480
-Audio URI: \\OCELOT\Storage\Media\Downloads\[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 01 [720p].mkv
-Scroll Position: 39
-Active Line: 46
+PlayResX: 1280
+PlayResY: 720
+Scroll Position: 190
+Active Line: 203
 Video Zoom Percent: 0.75
-Video File: \\OCELOT\Storage\Media\Downloads\[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 01 [720p].mkv
+Video File: \\OCELOT\Storage\Media\Downloads\[Leopard-Raws] Chuunibyou demo Koi ga Shitai! Ren - 01 RAW (MX 1280x720 x264 AAC).mp4
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.77778
-Video Position: 2466
-Last Style Storage: Default
-Collisions: Normal
+Video Position: 12750
+Audio URI: \\OCELOT\Storage\Media\Downloads\[Leopard-Raws] Chuunibyou demo Koi ga Shitai! Ren - 01 RAW (MX 1280x720 x264 AAC).mp4
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -31,17 +29,17 @@ Style: Ep Title,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F40404
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.31,0:00:18.76,Default,,0,0,0,,My Mom and my sisters moved \Noverseas because of Dad's job...
-Dialogue: 0,0:00:19.26,0:00:22.30,Default,,0,0,0,,...so now I'm living alone \Nstarting this spring.
-Dialogue: 0,0:00:23.29,0:00:28.77,Default,,0,0,0,,However, my first time living \Nalone only lasted for a few days.
-Dialogue: 0,0:00:31.27,0:00:33.58,Default,,0,0,0,,Hey, Rikka. I'm opening the door.
-Dialogue: 0,0:00:35.11,0:00:38.01,Default,,0,0,0,,Wake up already. We have school today.
-Dialogue: 0,0:00:38.99,0:00:41.40,Default,,0,0,0,,In a virtual repeat of \Nlast year's attempt...
-Dialogue: 0,0:00:41.40,0:00:44.33,Default,,0,0,0,,...to keep my dark chunibyo \Nhistory safely hidden away...
-Dialogue: 0,0:00:44.33,0:00:46.52,Default,,0,0,0,,...and start life anew in high school...
-Dialogue: 0,0:00:46.70,0:00:49.25,Default,,0,0,0,,...Rikka Takanashi here foiled me again.
-Dialogue: 0,0:00:50.16,0:00:52.08,Default,,0,0,0,,I command you to awaken, \NRikka Takanashi!
-Dialogue: 0,0:00:52.08,0:00:55.28,Default,,0,0,0,,Or rather, Wicked Lord Shingan. \NThe time of awakening has come!
+Dialogue: 0,0:00:23.11,0:00:27.56,Default,,0,0,0,,My Mom and my sisters moved \Noverseas because of Dad's job...
+Dialogue: 0,0:00:28.06,0:00:31.10,Default,,0,0,0,,...so now I'm living alone \Nstarting this spring.
+Dialogue: 0,0:00:32.09,0:00:37.57,Default,,0,0,0,,However, my first time living \Nalone only lasted for a few days.
+Dialogue: 0,0:00:40.07,0:00:42.38,Default,,0,0,0,,Hey, Rikka. I'm opening the door.
+Dialogue: 0,0:00:43.91,0:00:46.81,Default,,0,0,0,,Wake up already. We have school today.
+Dialogue: 0,0:00:47.79,0:00:50.20,Default,,0,0,0,,In a virtual repeat of \Nlast year's attempt...
+Dialogue: 0,0:00:50.20,0:00:53.13,Default,,0,0,0,,...to keep my dark chunibyo \Nhistory safely hidden away...
+Dialogue: 0,0:00:53.13,0:00:55.32,Default,,0,0,0,,...and start life anew in high school...
+Dialogue: 0,0:00:55.50,0:00:58.05,Default,,0,0,0,,...Rikka Takanashi here foiled me again.
+Dialogue: 0,0:00:58.96,0:01:00.88,Default,,0,0,0,,I command you to awaken, \NRikka Takanashi!
+Dialogue: 0,0:01:00.88,0:01:04.08,Default,,0,0,0,,Or rather, Wicked Lord Shingan. \NThe time of awakening has come!
 Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,I wanna fall in love.
 Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,盗汗夢が続く
 Dialogue: 0,0:00:00.00,0:00:00.00,Kanji,,0,0,0,,約束しても、心がどこかで怯えてるみたい
@@ -88,439 +86,440 @@ Dialogue: 0,0:02:11.14,0:02:15.85,TL,,0,0,0,,Even if I'm never prepared to tell 
 Dialogue: 0,0:02:15.85,0:02:18.35,TL,,0,0,0,,I want to let you know
 Dialogue: 0,0:02:18.48,0:02:21.11,TL,,0,0,0,,My voice glistens with the contents of my heart
 Dialogue: 0,0:02:21.26,0:02:26.94,TL,,0,0,0,,With the voice, it echoes!
-Dialogue: 0,0:02:31.14,0:02:33.34,Default,,0,0,0,,Rikka, is sunny side up okay?
-Dialogue: 0,0:02:33.60,0:02:35.05,Default,,0,0,0,,Dark side up, please.
-Dialogue: 0,0:02:35.27,0:02:36.84,Default,,0,0,0,,"Sunny side up" it is.
-Dialogue: 0,0:02:37.27,0:02:38.84,Default,,0,0,0,,Turn over!
-Dialogue: 0,0:02:39.11,0:02:40.24,Default,,0,0,0,,So, which is it?
-Dialogue: 0,0:02:40.70,0:02:42.56,Default,,0,0,0,,I  told her  about too many options.
-Dialogue: 0,0:02:42.94,0:02:44.24,Default,,0,0,0,,Yuta!
-Dialogue: 0,0:02:44.24,0:02:44.85,Default,,0,0,0,,What is it?
-Dialogue: 0,0:02:45.07,0:02:47.06,Default,,0,0,0,,I don't have the ribbon \Nfor my school uniform.
-Dialogue: 0,0:02:47.41,0:02:48.45,Default,,0,0,0,,Huh?
-Dialogue: 0,0:02:48.45,0:02:50.23,Default,,0,0,0,,Gasp! No way! Was it their doing?!
-Dialogue: 0,0:02:50.58,0:02:52.66,Default,,0,0,0,,I let my guard down.
-Dialogue: 0,0:02:52.66,0:02:55.82,Default,,0,0,0,,That's why I told you to \Nprepare it yesterday.
-Dialogue: 0,0:02:56.33,0:02:57.23,Default,,0,0,0,,I'm coming in.
-Dialogue: 0,0:03:02.00,0:03:04.21,Default,,0,0,0,,This is a busy time! What the hell are you doing!?
-Dialogue: 0,0:03:04.21,0:03:05.76,Default,,0,0,0,,I'll yank out your antenna hair!
-Dialogue: 0,0:03:05.76,0:03:08.37,Default,,0,0,0,,Please don't! It's my \Nmost charming feature!
-Dialogue: 0,0:03:09.09,0:03:13.54,Default,,0,0,0,,Rikka's mother also had to move out \Nof town for work this spring...
-Dialogue: 0,0:03:14.31,0:03:18.05,Default,,0,0,0,,...which led to Rikka having to \Nlive on her own as well, however...
-Dialogue: 0,0:03:18.55,0:03:19.58,Default,,0,0,0,,Heave-ho...
-Dialogue: 0,0:03:19.58,0:03:21.68,Default,,0,0,0,,Why are your possessions being moved out?
-Dialogue: 0,0:03:21.90,0:03:24.18,Default,,0,0,0,,Have they finally made their move?!
-Dialogue: 0,0:03:24.44,0:03:27.68,Default,,0,0,0,,What? Rikka's grandfather accidentally \Nlet go of their apartment?
-Dialogue: 0,0:03:27.95,0:03:29.43,Default,,0,0,0,,It's sabotage!
-Dialogue: 0,0:03:30.38,0:03:33.20,Default,,0,0,0,,I guess you'll have to live with me \Nuntil your new place is sorted out.
-Dialogue: 0,0:03:33.62,0:03:35.81,Default,,0,0,0,,Activating emergency code: Triple Four!
-Dialogue: 0,0:03:36.66,0:03:40.65,Default,,0,0,0,,And so, Rikka temporarily \Ncame to live with me.
-Dialogue: 0,0:03:41.67,0:03:44.43,Default,,0,0,0,,It's pleasant to be woken up by you.
-Dialogue: 0,0:03:44.43,0:03:46.30,Default,,0,0,0,,See it from my standpoint.
-Dialogue: 0,0:03:46.70,0:03:48.12,Default,,0,0,0,,That would never fly with the priestess.
-Dialogue: 0,0:03:48.12,0:03:52.76,Default,,0,0,0,,I lied to Toka and told her I'd \Nplaced Rikka in a small apartment
-Dialogue: 0,0:03:52.76,0:03:56.01,Default,,0,0,0,,and we are one week into \Nour deceitful life.
-Dialogue: 0,0:03:57.14,0:03:59.92,Default,,0,0,0,,Chimera, I give you my demonic fruit.
-Dialogue: 0,0:04:00.60,0:04:03.89,Default,,0,0,0,,You're getting used to these red fruits.
-Dialogue: 0,0:04:05.32,0:04:06.55,Default,,0,0,0,,This proves nothing!
-Dialogue: 0,0:04:09.53,0:04:12.87,Default,,0,0,0,,Try one. They taste as \Ngood as strawberries.
-Dialogue: 0,0:04:12.87,0:04:14.31,Default,,0,0,0,,How can that be?
-Dialogue: 0,0:04:15.70,0:04:19.01,Default,,0,0,0,,You're becoming more and \Nmore like the priestess.
-Dialogue: 0,0:04:20.23,0:04:22.04,Default,,0,0,0,,Are you under her influence?!
-Dialogue: 0,0:04:22.04,0:04:23.65,Default,,0,0,0,,I'm saying it for your own good.
-Dialogue: 0,0:04:26.59,0:04:27.74,Default,,0,0,0,,Yuta!
-Dialogue: 0,0:04:27.96,0:04:31.18,Default,,0,0,0,,The fluid! The green, squishy \Nmatter is attacking me!
-Dialogue: 0,0:04:31.18,0:04:33.29,Default,,0,0,0,,Wait! Stay perfectly still.
-Dialogue: 0,0:04:33.47,0:04:35.42,Default,,0,0,0,,Wiping at it will only make it worse.
-Dialogue: 0,0:04:35.64,0:04:38.27,Default,,0,0,0,,You need to dab at it like this...
-Dialogue: 0,0:04:39.44,0:04:44.23,OS,,0,0,0,,{\i1}If you're heading out, please do take \Na collapsible umbrella with you.{\i0}
-Dialogue: 0,0:04:44.77,0:04:47.55,Default,,0,0,0,,You could say we're dating.
-Dialogue: 0,0:04:47.78,0:04:49.56,Default,,0,0,0,,We're dating, but...
-Dialogue: 0,0:04:49.99,0:04:53.48,Default,,0,0,0,,How do you get to romance if it has to be concealed?
-Dialogue: 0,0:04:54.41,0:04:57.45,Default,,0,0,0,,I've never even had a normal \Ngirlfriend before...
-Dialogue: 0,0:04:57.45,0:05:00.21,Default,,0,0,0,,...so having a first girlfriend with \Nchunibyo will be even harder.
-Dialogue: 0,0:05:00.83,0:05:05.28,Default,,0,0,0,,Things settled down in a way that \Nisn't much different from before.
-Dialogue: 0,0:05:07.96,0:05:09.59,Default,,0,0,0,,Guten morgen!
-Dialogue: 0,0:05:09.59,0:05:13.25,Default,,0,0,0,,My name is Shinka Nibutani, and I'm in the 11th grade.
-Dialogue: 0,0:05:13.59,0:05:14.84,Default,,0,0,0,,Nibutani-san?
-Dialogue: 0,0:05:14.84,0:05:16.00,Default,,0,0,0,,Nibutani-san!
-Dialogue: 0,0:05:16.35,0:05:18.25,Default,,0,0,0,,How do you do, everyone?
-Dialogue: 0,0:05:18.25,0:05:19.93,Default,,0,0,0,,Let's make it another good year.
-Dialogue: 0,0:05:20.75,0:05:21.91,Default,,0,0,0,,Sure.
-Dialogue: 0,0:05:22.81,0:05:24.02,Default,,0,0,0,,What's wrong with her?
-Dialogue: 0,0:05:24.02,0:05:24.88,Default,,0,0,0,,High school two syndrome?
-Dialogue: 0,0:05:25.52,0:05:27.09,Default,,0,0,0,,I'm going to say this one more time.
-Dialogue: 0,0:05:28.90,0:05:30.93,Default,,0,0,0,,Remember what you promised yesterday.
-Dialogue: 0,0:05:31.15,0:05:32.15,Default,,0,0,0,,Of course.
-Dialogue: 0,0:05:32.15,0:05:35.42,Default,,0,0,0,,Based on the hieroglyphs, the \Nhateful magic barrier attack
-Dialogue: 0,0:05:35.42,0:05:36.99,Default,,0,0,0,,triggered by the Freemasons...
-Dialogue: 0,0:05:36.99,0:05:37.97,Default,,0,0,0,,Wrong!
-Dialogue: 0,0:05:37.97,0:05:40.58,Default,,0,0,0,,Our uninvited guests the \Nunfathomable parallel world?
-Dialogue: 0,0:05:40.58,0:05:41.68,Default,,0,0,0,,Not that either.
-Dialogue: 0,0:05:42.12,0:05:45.36,Default,,0,0,0,,Do you mean our discussion about \Nperforming the Schrodinger's
-Dialogue: 0,0:05:45.36,0:05:47.01,Default,,0,0,0,,cat experiment using Chimera?
-Dialogue: 0,0:05:47.01,0:05:48.20,Default,,0,0,0,,Never! Don't do it!
-Dialogue: 0,0:05:48.88,0:05:52.05,Default,,0,0,0,,You know. How we're living \Ntogether at my place.
-Dialogue: 0,0:05:52.05,0:05:53.72,Default,,0,0,0,,I see.  I remember now.
-Dialogue: 0,0:05:53.72,0:05:55.70,Default,,0,0,0,,That is the only thing \NI spoke to you about.
-Dialogue: 0,0:05:56.39,0:05:58.64,Default,,0,0,0,,We should  visit the real estate agent again today.
-Dialogue: 0,0:05:59.60,0:06:02.18,Default,,0,0,0,,If you are referring to my new \Nbase, it has already been located.
-Dialogue: 0,0:06:02.18,0:06:02.93,Default,,0,0,0,,Seriously!?
-Dialogue: 0,0:06:03.31,0:06:05.69,Default,,0,0,0,,It is the demon world of \Nthe impossibly Wicked One,
-Dialogue: 0,0:06:05.69,0:06:06.88,Default,,0,0,0,,invisible to mere mortals!
-Dialogue: 0,0:06:07.02,0:06:09.25,Default,,0,0,0,,I thought you were being serious!
-Dialogue: 0,0:06:09.25,0:06:10.49,Default,,0,0,0,,I'll yank out your antenna hair!
-Dialogue: 0,0:06:10.49,0:06:11.89,Default,,0,0,0,,No, stop!
-Dialogue: 0,0:06:12.28,0:06:14.26,Default,,0,0,0,,I see you lovebirds are already at it.
-Dialogue: 0,0:06:14.53,0:06:15.45,Default,,0,0,0,,Who are you?
-Dialogue: 0,0:06:15.45,0:06:17.91,Default,,0,0,0,,It's me, Isshiki. Makoto Isshiki!
-Dialogue: 0,0:06:17.91,0:06:19.03,Default,,0,0,0,,You know him?
-Dialogue: 0,0:06:19.03,0:06:19.65,Default,,0,0,0,,Nope.
-Dialogue: 0,0:06:19.87,0:06:22.65,Default,,0,0,0,,It's me! The guy in \Nthe Light Music Club!
-Dialogue: 0,0:06:22.65,0:06:24.98,Default,,0,0,0,,The guy who sacrificed everything \Nfor upperclassman Kumi!
-Dialogue: 0,0:06:25.25,0:06:26.83,Default,,0,0,0,,Oh, it's the crew cut guy.
-Dialogue: 0,0:06:26.83,0:06:28.25,Default,,0,0,0,,Mister Crew Cut!
-Dialogue: 0,0:06:28.25,0:06:31.41,Default,,0,0,0,,Stop calling me that! That \Nversion of me is dead!
-Dialogue: 0,0:06:31.84,0:06:34.72,Default,,0,0,0,,Just look at my Rock'n'Roll head!
-Dialogue: 0,0:06:34.72,0:06:37.51,Default,,0,0,0,,Isshiki, what happened to your head?
-Dialogue: 0,0:06:37.51,0:06:38.16,Default,,0,0,0,,Huh?
-Dialogue: 0,0:06:38.35,0:06:40.56,Default,,0,0,0,,Let's go visit the student councilor.
-Dialogue: 0,0:06:40.56,0:06:42.10,Default,,0,0,0,,You're getting it all wrong, Sensei.
-Dialogue: 0,0:06:42.10,0:06:45.23,Default,,0,0,0,,My hair type changed when it grew back.
-Dialogue: 0,0:06:45.23,0:06:45.80,Default,,0,0,0,,Yeah whatever...
-Dialogue: 0,0:06:46.06,0:06:48.67,Default,,0,0,0,,Hey, Kumin-senpai! Good morning!
-Dialogue: 0,0:06:48.73,0:06:50.57,Default,,0,0,0,,I wonder who that was?
-Dialogue: 0,0:06:50.57,0:06:51.39,Default,,0,0,0,,Kumin.
-Dialogue: 0,0:06:51.98,0:06:54.47,Default,,0,0,0,,Rikka-chan and Togashi-kun. Morning.
-Dialogue: 0,0:06:54.99,0:06:57.20,Default,,0,0,0,,You're both 11th graders today.
-Dialogue: 0,0:06:57.53,0:07:00.23,Default,,0,0,0,,And now you're a 12th grader.
-Dialogue: 0,0:07:00.49,0:07:02.99,Default,,0,0,0,,Uh-huh. And it's such a let-down.
-Dialogue: 0,0:07:02.99,0:07:04.87,Default,,0,0,0,,'Cause you'll have to \Nstudy for university.
-Dialogue: 0,0:07:05.37,0:07:08.54,Default,,0,0,0,,Uh-uh, that isn't what I \Nmean. I'm disappointed.
-Dialogue: 0,0:07:08.54,0:07:09.74,Default,,0,0,0,,Want to know why?
-Dialogue: 0,0:07:10.04,0:07:10.61,Default,,0,0,0,,Why?
-Dialogue: 0,0:07:11.17,0:07:13.35,Default,,0,0,0,,Because 12th grade is sooo next year.
-Dialogue: 0,0:07:15.22,0:07:16.78,Default,,0,0,0,,That's funny.
-Dialogue: 0,0:07:16.78,0:07:20.01,Default,,0,0,0,,That's how it told me to deliver it.
-Dialogue: 0,0:07:20.01,0:07:21.79,Default,,0,0,0,,Um, what is that?
-Dialogue: 0,0:07:21.97,0:07:25.89,Default,,0,0,0,,You know? I want to make everyone laugh just like how Morisummer-chan did
-Dialogue: 0,0:07:28.60,0:07:31.01,Default,,0,0,0,,Growing older brings many changes.
-Dialogue: 0,0:07:33.48,0:07:34.99,Default,,0,0,0,,Morisummer-chan!
-Dialogue: 0,0:07:35.32,0:07:38.60,Default,,0,0,0,,Morning! What are you supposed to be?
-Dialogue: 0,0:07:40.53,0:07:42.66,Default,,0,0,0,,How do you do, Kumin-senpai.
-Dialogue: 0,0:07:42.66,0:07:44.90,Default,,0,0,0,,I am wearing normal attire.
-Dialogue: 0,0:07:45.16,0:07:46.42,Default,,0,0,0,,"How do you do?"
-Dialogue: 0,0:07:46.42,0:07:48.45,Default,,0,0,0,,Are you experiencing advanced senility?
-Dialogue: 0,0:07:48.45,0:07:50.75,Default,,0,0,0,,Senpai, if I might have a word...
-Dialogue: 0,0:07:51.41,0:07:53.38,Default,,0,0,0,,Morisummer-chan, where are we going?
-Dialogue: 0,0:07:55.46,0:07:56.99,OS,,0,0,0,,DEKO                                                                                                      \NDEKO MIDDLE                                                                                               MIDDLE
-Dialogue: 0,0:07:55.59,0:07:56.99,Default,,0,0,0,,Death.
-Dialogue: 0,0:07:57.42,0:08:02.50,Default,,0,0,0,,And so, let's all share \Nanother lively school year.
-Dialogue: 0,0:08:02.85,0:08:04.63,Default,,0,0,0,,{\a6}Thank you for that speech.
-Dialogue: 0,0:08:03.10,0:08:04.64,Default,,0,0,0,,I'll show you.
-Dialogue: 0,0:08:04.64,0:08:06.49,Default,,0,0,0,,I made a lot of mistakes...
-Dialogue: 0,0:08:06.49,0:08:08.00,Default,,0,0,0,,...but that's all going \Nto change this year.
-Dialogue: 0,0:08:08.73,0:08:12.94,Default,,0,0,0,,I swear I will claw my way \Nto the top of this school!
-Dialogue: 0,0:08:08.98,0:08:11.56,Default,,0,0,0,,{\a6}The next speech comes \Nfrom our new students...
-Dialogue: 0,0:08:11.56,0:08:13.96,Default,,0,0,0,,{\a6}...represented by Sanae Dekomori.
-Dialogue: 0,0:08:13.96,0:08:14.59,Default,,0,0,0,,Wha-?!
-Dialogue: 0,0:08:18.19,0:08:20.98,Default,,0,0,0,,{\a6}I am the new student \Nrepresentative, Sanae Dekomori.
-Dialogue: 0,0:08:22.03,0:08:23.98,Default,,0,0,0,,{\a6}With the warm days of Spring...
-Dialogue: 0,0:08:24.41,0:08:26.87,Default,,0,0,0,,{\a6}...the trees become enrobed \Nin fresh, new green livery.
-Dialogue: 0,0:08:25.16,0:08:29.22,Default,,0,0,0,,They say that she got better grades \Nthan you had last year, Nibutani.
-Dialogue: 0,0:08:26.87,0:08:30.23,Default,,0,0,0,,{\a6}Our student lives also begin anew.
-Dialogue: 0,0:08:29.22,0:08:30.23,Default,,0,0,0,,Oh, really?
-Dialogue: 0,0:08:30.23,0:08:31.40,Default,,0,0,0,,That's amazing.
-Dialogue: 0,0:08:31.94,0:08:32.95,Default,,0,0,0,,Deko!
-Dialogue: 0,0:08:32.95,0:08:35.17,Default,,0,0,0,,Hey, what happened?
-Dialogue: 0,0:08:41.34,0:08:42.37,Default,,0,0,0,,Ahem.
-Dialogue: 0,0:08:42.97,0:08:45.60,Default,,0,0,0,,I believe everyone knows \Nthat in this world...
-Dialogue: 0,0:08:45.60,0:08:48.29,Default,,0,0,0,,...there are white \Nworlds and dark worlds.
-Dialogue: 0,0:08:48.29,0:08:48.79,Default,,0,0,0,,Wha-?
-Dialogue: 0,0:08:49.64,0:08:52.94,Default,,0,0,0,,"Seeing spirits requires \Nthe proper heart."
-Dialogue: 0,0:08:53.19,0:08:55.14,Default,,0,0,0,,"Love is everything."
-Dialogue: 0,0:08:58.57,0:09:00.32,Default,,0,0,0,,Hey, are you feeling all right?
-Dialogue: 0,0:09:00.32,0:09:03.28,Default,,0,0,0,,Sensei, Nibutani has fainted!
-Dialogue: 0,0:09:03.28,0:09:04.94,Default,,0,0,0,,What are they doing?
-Dialogue: 0,0:09:05.12,0:09:07.44,Default,,0,0,0,,We share the same class \Nonce again, Light Being.
-Dialogue: 0,0:09:08.95,0:09:10.73,Default,,0,0,0,,What ever are you saying, Takanashi?
-Dialogue: 0,0:09:10.96,0:09:11.79,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:09:11.79,0:09:13.06,Default,,0,0,0,,Takanashi!
-Dialogue: 0,0:09:14.22,0:09:15.59,Default,,0,0,0,,We're in the same class.
-Dialogue: 0,0:09:15.59,0:09:17.04,Default,,0,0,0,,Let's have another good year.
-Dialogue: 0,0:09:17.50,0:09:18.53,Default,,0,0,0,,Let's.
-Dialogue: 0,0:09:18.53,0:09:20.70,Default,,0,0,0,,Miss Nanase is our home room teacher.
-Dialogue: 0,0:09:20.97,0:09:22.37,Default,,0,0,0,,Togashi.
-Dialogue: 0,0:09:22.68,0:09:25.16,Default,,0,0,0,,They told to get my hair \Ncut for school tomorrow.
-Dialogue: 0,0:09:25.16,0:09:26.03,Default,,0,0,0,,What'll I do?
-Dialogue: 0,0:09:26.03,0:09:28.47,Default,,0,0,0,,How should I know? It's \Nyour own damned fault.
-Dialogue: 0,0:09:28.47,0:09:30.73,Default,,0,0,0,,Wait, are we in the same class again?
-Dialogue: 0,0:09:30.73,0:09:32.25,Default,,0,0,0,,No, I'm in Class 3 next door.
-Dialogue: 0,0:09:32.48,0:09:33.48,Default,,0,0,0,,Thank God.
-Dialogue: 0,0:09:33.48,0:09:34.46,Default,,0,0,0,,Is that relief?!
-Dialogue: 0,0:09:34.46,0:09:37.65,Default,,0,0,0,,You made no attempt to hide your relief!
-Dialogue: 0,0:09:37.65,0:09:39.39,Default,,0,0,0,,Togashi, a moment.
-Dialogue: 0,0:09:39.39,0:09:40.85,Default,,0,0,0,,Who is this beautiful girl?
-Dialogue: 0,0:09:41.24,0:09:42.40,Default,,0,0,0,,Pleased to meet you.
-Dialogue: 0,0:09:42.40,0:09:45.73,Default,,0,0,0,,Are you Togashi's friend? My name is...
-Dialogue: 0,0:09:44.41,0:09:45.73,Default,,0,0,0,,{\a6}Pot, meet kettle.
-Dialogue: 0,0:09:46.41,0:09:49.10,Default,,0,0,0,,I'm only bringing this up \Nbecause we share a classroom.
-Dialogue: 0,0:09:49.45,0:09:52.58,Default,,0,0,0,,I have clearly instructed \NTakanashi not to share...
-Dialogue: 0,0:09:52.58,0:09:55.46,Default,,0,0,0,,...our middle school \Nmemories with anyone.
-Dialogue: 0,0:09:55.46,0:09:56.99,Default,,0,0,0,,Are you still on that?
-Dialogue: 0,0:09:57.67,0:09:59.96,Default,,0,0,0,,I pondered all summer break.
-Dialogue: 0,0:09:59.96,0:10:03.25,Default,,0,0,0,,I pondered my decision to attend \Nthis particular high school.
-Dialogue: 0,0:10:03.76,0:10:06.50,Default,,0,0,0,,Do I really intend to spend three \Nyears of my life in that loser's club?
-Dialogue: 0,0:10:07.97,0:10:09.60,Default,,0,0,0,,Hey, are you okay?
-Dialogue: 0,0:10:09.60,0:10:11.43,Default,,0,0,0,,Servant to Wicked Lord Shingan!
-Dialogue: 0,0:10:11.43,0:10:13.71,Default,,0,0,0,,User of the Mjolnir \NHammer, Sanae Dekomori...
-Dialogue: 0,0:10:13.71,0:10:15.46,Default,,0,0,0,,...is hereby reborn!
-Dialogue: 0,0:10:18.61,0:10:21.03,Default,,0,0,0,,Only the deviously \Ndevious Fake Morisummer
-Dialogue: 0,0:10:21.03,0:10:23.32,Default,,0,0,0,,would dare stage an attack \Non me in my temporary guise.
-Dialogue: 0,0:10:23.32,0:10:25.02,Default,,0,0,0,,You are rotten to the core.
-Dialogue: 0,0:10:25.36,0:10:27.02,Default,,0,0,0,,Now observe!
-Dialogue: 0,0:10:27.28,0:10:29.83,Default,,0,0,0,,I spin right left, and left right.
-Dialogue: 0,0:10:29.83,0:10:33.54,Default,,0,0,0,,The opposing revolutions shall produce \Na kink between dimensions and space!
-Dialogue: 0,0:10:34.04,0:10:38.70,Default,,0,0,0,,And by adding an additional revolution, \NI shall produce unlimited power!
-Dialogue: 0,0:10:38.70,0:10:40.16,Default,,0,0,0,,Take this! The Mjolnir...
-Dialogue: 0,0:10:41.63,0:10:43.91,Default,,0,0,0,,You sure have weak semicircular canals.
-Dialogue: 0,0:10:44.25,0:10:46.63,Default,,0,0,0,,Dekomori will not be defeated!
-Dialogue: 0,0:10:47.33,0:10:50.20,OS,,0,0,0,,Rich Cheese (6 pcs)
-Dialogue: 0,0:10:47.55,0:10:50.20,Default,,0,0,0,,Because you're such an \Nenergetic First Year...
-Dialogue: 0,0:10:50.60,0:10:53.02,Default,,0,0,0,,...as a reward, I will \Ngive you the cheese
-Dialogue: 0,0:10:53.02,0:10:54.37,Default,,0,0,0,,love. So. Much.
-Dialogue: 0,0:10:55.39,0:10:57.23,Default,,0,0,0,,Don't you think you're overdoing it?
-Dialogue: 0,0:10:57.23,0:10:59.76,Default,,0,0,0,,One must deal with trouble \Nof one's creation.
-Dialogue: 0,0:11:01.15,0:11:02.72,Default,,0,0,0,,Paging a student.
-Dialogue: 0,0:11:03.24,0:11:06.70,Default,,0,0,0,,Rikka Takanashi from Year 2, Class 4.
-Dialogue: 0,0:11:06.70,0:11:09.78,Default,,0,0,0,,Please report to the staff \Nroom immediately. I repeat.
-Dialogue: 0,0:11:09.91,0:11:11.90,Default,,0,0,0,,Rikka Takanashi from Year 2, Class 4,
-Dialogue: 0,0:11:11.90,0:11:13.90,Default,,0,0,0,,please report to the \Nstaff room immediately.
-Dialogue: 0,0:11:13.90,0:11:16.33,Default,,0,0,0,,The school has been \Noverrun by terrorists!
-Dialogue: 0,0:11:17.21,0:11:18.63,Default,,0,0,0,,Hardly.
-Dialogue: 0,0:11:27.43,0:11:28.47,Default,,0,0,0,,Letters?
-Dialogue: 0,0:11:28.47,0:11:32.08,Default,,0,0,0,,That's the thing. The school mailed \Nat least three to your home.
-Dialogue: 0,0:11:32.43,0:11:34.39,Default,,0,0,0,,They all came back returned to sender.
-Dialogue: 0,0:11:34.39,0:11:36.21,Default,,0,0,0,,That may be due to the fact that my
-Dialogue: 0,0:11:36.21,0:11:37.76,Default,,0,0,0,,existence had been \Nerased from this world.
-Dialogue: 0,0:11:38.14,0:11:41.63,Default,,0,0,0,,When we phone you, it says \Nthat number is not in use.
-Dialogue: 0,0:11:41.77,0:11:43.39,Default,,0,0,0,,My existence had been erased.
-Dialogue: 0,0:11:43.65,0:11:47.81,Default,,0,0,0,,But you exist right now, so \Nperhaps it'll go through now.
-Dialogue: 0,0:11:47.90,0:11:48.68,Default,,0,0,0,,You won't.
-Dialogue: 0,0:11:48.99,0:11:49.52,Default,,0,0,0,,Why not?
-Dialogue: 0,0:11:50.32,0:11:51.74,Default,,0,0,0,,My eye! My eye!
-Dialogue: 0,0:11:51.74,0:11:53.06,Default,,0,0,0,,That's way too weak!
-Dialogue: 0,0:11:53.06,0:11:54.06,OS,,0,0,0,,Far-East Magical Napping \NSociety - Summer Thereof
-Dialogue: 0,0:11:54.58,0:11:58.57,Default,,0,0,0,,She seemed to buy it, but we \Ncan't keep this up forever.
-Dialogue: 0,0:11:58.57,0:12:00.71,Default,,0,0,0,,Don't say that.
-Dialogue: 0,0:12:00.71,0:12:02.22,Default,,0,0,0,,But it's hard.
-Dialogue: 0,0:12:02.88,0:12:04.95,Default,,0,0,0,,Can't you just try to take a bite?
-Dialogue: 0,0:12:11.26,0:12:13.67,Default,,0,0,0,,Come over here and join us, Rikka.
-Dialogue: 0,0:12:14.10,0:12:15.16,Default,,0,0,0,,No, thank you.
-Dialogue: 0,0:12:15.47,0:12:17.93,Default,,0,0,0,,The incubus lives in that coffin.
-Dialogue: 0,0:12:17.93,0:12:21.80,Default,,0,0,0,,Even one forged in the darkness \Nsuch as I dare not approach.
-Dialogue: 0,0:12:22.40,0:12:25.68,Default,,0,0,0,,I once experienced a frightening \Ndream while under its influence.
-Dialogue: 0,0:12:26.23,0:12:28.06,Default,,0,0,0,,Really? What did you dream about?
-Dialogue: 0,0:12:32.99,0:12:36.70,Default,,0,0,0,,Ugh, the light! The Light \NBeing is paralyzing me!
-Dialogue: 0,0:12:36.95,0:12:38.29,Default,,0,0,0,,What're you doing?
-Dialogue: 0,0:12:38.29,0:12:39.00,Default,,0,0,0,,Ow?
-Dialogue: 0,0:12:39.41,0:12:41.17,Default,,0,0,0,,Why is "ow" in the form of a question?
-Dialogue: 0,0:12:41.17,0:12:42.40,Default,,0,0,0,,No particular reason.
-Dialogue: 0,0:12:42.67,0:12:45.07,Default,,0,0,0,,If you had to choose, where \Nwould you want to live?
-Dialogue: 0,0:12:45.50,0:12:46.42,Default,,0,0,0,,Live?
-Dialogue: 0,0:12:46.42,0:12:48.13,Default,,0,0,0,,What we were talking about before.
-Dialogue: 0,0:12:49.01,0:12:51.16,Default,,0,0,0,,Regarding your new base \Nand battle formation.
-Dialogue: 0,0:12:51.38,0:12:53.18,Default,,0,0,0,,The base where my Wicked Lord
-Dialogue: 0,0:12:53.18,0:12:55.33,Default,,0,0,0,,Shingan and the Dark \NFlame Master manifest...
-Dialogue: 0,0:12:55.33,0:12:58.04,Default,,0,0,0,,...is also an excellent \Ngeomagnetic focal point.
-Dialogue: 0,0:12:58.68,0:13:00.46,Default,,0,0,0,,You know it that's out.
-Dialogue: 0,0:13:00.60,0:13:02.01,Default,,0,0,0,,I know.
-Dialogue: 0,0:13:04.65,0:13:05.55,Default,,0,0,0,,Nibutani.
-Dialogue: 0,0:13:06.15,0:13:07.94,Default,,0,0,0,,Hey, what's with the costume?
-Dialogue: 0,0:13:07.94,0:13:09.36,Default,,0,0,0,,Is that idiot here?
-Dialogue: 0,0:13:09.36,0:13:12.43,Default,,0,0,0,,Look what she did to my \Ncostume for Theatre Club!
-Dialogue: 0,0:13:11.11,0:13:12.43,Default,,0,0,0,,{\a6}FAKE
-Dialogue: 0,0:13:13.07,0:13:14.24,Default,,0,0,0,,She's sleeping inside.
-Dialogue: 0,0:13:14.24,0:13:15.06,Default,,0,0,0,,Sleeping?
-Dialogue: 0,0:13:15.58,0:13:17.36,Default,,0,0,0,,How convenient.
-Dialogue: 0,0:13:15.96,0:13:18.69,OS,,0,0,0,,PERMANENT MARKER
-Dialogue: 0,0:13:18.79,0:13:19.54,Default,,0,0,0,,Later!
-Dialogue: 0,0:13:19.54,0:13:20.16,Default,,0,0,0,,Later.
-Dialogue: 0,0:13:20.16,0:13:21.62,Default,,0,0,0,,What, you're leaving?
-Dialogue: 0,0:13:21.62,0:13:23.17,Default,,0,0,0,,Something like that.
-Dialogue: 0,0:13:23.17,0:13:25.42,Default,,0,0,0,,We must search for a new base.
-Dialogue: 0,0:13:25.42,0:13:27.28,Default,,0,0,0,,Zip it. C'mon.
-Dialogue: 0,0:13:27.59,0:13:28.57,Default,,0,0,0,,Base?
-Dialogue: 0,0:13:29.27,0:13:30.58,Default,,0,0,0,,For all that...
-Dialogue: 0,0:13:31.05,0:13:34.46,Default,,0,0,0,,I have no idea where you \Nshould set up house alone.
-Dialogue: 0,0:13:34.76,0:13:37.91,Default,,0,0,0,,I favor a subterranean labyrinth, \Nbut a medieval castle will do.
-Dialogue: 0,0:13:38.14,0:13:39.77,Default,,0,0,0,,Get real.
-Dialogue: 0,0:13:39.77,0:13:43.14,Default,,0,0,0,,Past the corner store, there's a castle \Nbuilding that says "Parliament" on it.
-Dialogue: 0,0:13:45.23,0:13:47.88,Default,,0,0,0,,You idiot! Stay away from that place!
-Dialogue: 0,0:13:47.88,0:13:49.35,Default,,0,0,0,,Yuta.
-Dialogue: 0,0:13:49.61,0:13:52.93,Default,,0,0,0,,I'm sorry. I didn't realize \Nhow expensive rent is...
-Dialogue: 0,0:13:52.93,0:13:55.85,Default,,0,0,0,,I mean, I knew it might be expensive.
-Dialogue: 0,0:13:56.58,0:13:58.81,Default,,0,0,0,,Actually, I don't know \Nmuch about it either.
-Dialogue: 0,0:14:01.61,0:14:02.90,Default,,0,0,0,,It has to be expensive.
-Dialogue: 0,0:14:09.55,0:14:10.53,Default,,0,0,0,,Yuta.
-Dialogue: 0,0:14:12.01,0:14:15.62,Default,,0,0,0,,Will I be barred from this place once \NI have transferred to my new base?
-Dialogue: 0,0:14:16.05,0:14:17.60,Default,,0,0,0,,Don't be silly.
-Dialogue: 0,0:14:17.60,0:14:21.21,Default,,0,0,0,,But I won't come here when I \Ncommute to and from school.
-Dialogue: 0,0:14:21.89,0:14:23.88,Default,,0,0,0,,Well, yeah, probably not.
-Dialogue: 0,0:14:24.31,0:14:28.23,Default,,0,0,0,,I won't be able to go to your room to \Nreport activity in the magical realm.
-Dialogue: 0,0:14:28.61,0:14:30.18,Default,,0,0,0,,What a shame.
-Dialogue: 0,0:14:30.69,0:14:31.68,Default,,0,0,0,,But...
-Dialogue: 0,0:14:35.07,0:14:37.18,Default,,0,0,0,,I'll drop by to pick you up for school.
-Dialogue: 0,0:14:37.53,0:14:40.84,Default,,0,0,0,,We need to find you a place \Nnearby so I can visit.
-Dialogue: 0,0:14:42.50,0:14:44.69,Default,,0,0,0,,Don't you want to stay together?
-Dialogue: 0,0:14:47.96,0:14:49.57,Default,,0,0,0,,You two!
-Dialogue: 0,0:14:50.77,0:14:52.03,Default,,0,0,0,,Nibutani.
-Dialogue: 0,0:14:52.42,0:14:56.09,Default,,0,0,0,,Takanashi's apartment is \Nvacant. What's going on?
-Dialogue: 0,0:14:56.59,0:14:58.85,Default,,0,0,0,,Did you move, Rikka?
-Dialogue: 0,0:14:58.85,0:15:00.35,Default,,0,0,0,,Well, actually...
-Dialogue: 0,0:15:00.35,0:15:02.04,Default,,0,0,0,,Let's have an explanation.
-Dialogue: 0,0:15:03.27,0:15:05.05,Default,,0,0,0,,Toka?!
-Dialogue: 0,0:15:05.60,0:15:07.73,Default,,0,0,0,,We leave for Italy soon...
-Dialogue: 0,0:15:07.73,0:15:10.71,Default,,0,0,0,,...but you won't give me your new \Naddress or answer your phone.
-Dialogue: 0,0:15:10.71,0:15:11.80,Default,,0,0,0,,What's the story?
-Dialogue: 0,0:15:11.90,0:15:14.36,Default,,0,0,0,,Uh, it's not what you think!
-Dialogue: 0,0:15:15.90,0:15:17.36,Default,,0,0,0,,Yuta! Run for it!
-Dialogue: 0,0:15:17.36,0:15:18.32,Default,,0,0,0,,You dummy!
-Dialogue: 0,0:15:18.32,0:15:22.48,Default,,0,0,0,,I see. You are attempting \Nto maintain secrecy.
-Dialogue: 0,0:15:24.04,0:15:25.07,Default,,0,0,0,,Master!
-Dialogue: 0,0:15:25.46,0:15:26.54,Default,,0,0,0,,Schwing!
-Dialogue: 0,0:15:26.54,0:15:27.40,Default,,0,0,0,,Dekomori!
-Dialogue: 0,0:15:27.67,0:15:30.92,Default,,0,0,0,,I was right to tail Fake Summer!
-Dialogue: 0,0:15:30.92,0:15:34.55,Default,,0,0,0,,I, your loyal servant, will \Nbuy you the time you need!
-Dialogue: 0,0:15:34.55,0:15:36.99,Default,,0,0,0,,Masters, please evacuate to safety!
-Dialogue: 0,0:15:37.22,0:15:39.89,Default,,0,0,0,,Do you realize who you're up against?
-Dialogue: 0,0:15:39.89,0:15:41.12,Default,,0,0,0,,Natch!
-Dialogue: 0,0:15:41.47,0:15:43.93,Default,,0,0,0,,She is the priestess who, \Nin a previous batle...
-Dialogue: 0,0:15:43.93,0:15:46.56,Default,,0,0,0,,...once force-fed me a \Nmass of rotten dairy!
-Dialogue: 0,0:15:46.89,0:15:49.26,Default,,0,0,0,,I couldn't wish for a worthier opponent.
-Dialogue: 0,0:15:49.52,0:15:51.51,Default,,0,0,0,,Now, come at me!
-Dialogue: 0,0:15:57.11,0:15:59.45,Default,,0,0,0,,Hey, you! Your hand! Your hand!
-Dialogue: 0,0:16:00.31,0:16:01.06,Default,,0,0,0,,DUMMY
-Dialogue: 0,0:16:02.78,0:16:05.41,Default,,0,0,0,,I know your intent now.
-Dialogue: 0,0:16:06.04,0:16:08.79,Default,,0,0,0,,No! You're wrong! This \Nisn't what it looks like!
-Dialogue: 0,0:16:08.79,0:16:10.50,Default,,0,0,0,,This is Fake Morisummer's doing!
-Dialogue: 0,0:16:10.50,0:16:13.04,Default,,0,0,0,,Hey! It your fault to begin with.
-Dialogue: 0,0:16:13.04,0:16:16.00,Default,,0,0,0,,I deeply respect you, Priestess!
-Dialogue: 0,0:16:16.00,0:16:19.79,Default,,0,0,0,,As my master's sister, \NI am at your command!
-Dialogue: 0,0:16:19.79,0:16:22.37,Default,,0,0,0,,Stop trying to throw me under the bus!
-Dialogue: 0,0:16:22.60,0:16:24.79,Default,,0,0,0,,You two are such good friends.
-Dialogue: 0,0:16:27.27,0:16:29.02,Default,,0,0,0,,I'm sorry. My hand slipped.
-Dialogue: 0,0:16:29.02,0:16:30.01,Default,,0,0,0,,What?!
-Dialogue: 0,0:16:30.31,0:16:31.55,Default,,0,0,0,,All hands, prepare for combat!
-Dialogue: 0,0:16:31.73,0:16:33.99,Default,,0,0,0,,Assume positions and \Nprepare to intercept!
-Dialogue: 0,0:16:34.98,0:16:36.10,Default,,0,0,0,,Be destroyed, real.
-Dialogue: 0,0:16:36.10,0:16:37.61,Default,,0,0,0,,Blow up, synapses!
-Dialogue: 0,0:16:37.61,0:16:40.18,Default,,0,0,0,,Vanishment This World!
-Dialogue: 0,0:17:06.97,0:17:09.96,Default,,0,0,0,,Dark Matter Blaze.
-Dialogue: 0,0:17:14.06,0:17:15.44,Default,,0,0,0,,It's no good.
-Dialogue: 0,0:17:15.44,0:17:18.86,Default,,0,0,0,,She easily deflected \Nyour Dark Matter Blaze.
-Dialogue: 0,0:17:19.44,0:17:20.89,Default,,0,0,0,,She's unbelievable.
-Dialogue: 0,0:17:21.99,0:17:23.43,Default,,0,0,0,,It's all or nothing!
-Dialogue: 0,0:17:25.16,0:17:25.78,Default,,0,0,0,,L!
-Dialogue: 0,0:17:25.78,0:17:26.45,Default,,0,0,0,,L! O!
-Dialogue: 0,0:17:26.45,0:17:26.95,Default,,0,0,0,,L! O! V!
-Dialogue: 0,0:17:26.95,0:17:27.62,Default,,0,0,0,,L! O! V! E!
-Dialogue: 0,0:17:27.62,0:17:29.62,Default,,0,0,0,,Yay!
-Dialogue: 0,0:17:32.92,0:17:34.79,Default,,0,0,0,,How about a physical attack?
-Dialogue: 0,0:17:34.79,0:17:36.91,Default,,0,0,0,,Direct Impact!
-Dialogue: 0,0:17:43.18,0:17:44.20,Default,,0,0,0,,Machine Gun!
-Dialogue: 0,0:17:44.18,0:17:45.20,OS,,0,0,0,,(DEMON GOD GUN) MA SHIN GAN
-Dialogue: 0,0:17:45.14,0:17:45.18,Default,,0,0,0,,Machine Gun!
-Dialogue: 0,0:17:52.31,0:17:53.11,Default,,0,0,0,,Yuta!
-Dialogue: 0,0:17:53.48,0:17:54.85,Default,,0,0,0,,Schwarz Shield!
-Dialogue: 0,0:17:55.56,0:17:56.76,Default,,0,0,0,,Arrostire!
-Dialogue: 0,0:17:57.82,0:17:59.18,Default,,0,0,0,,What's arrostire?
-Dialogue: 0,0:17:59.44,0:18:01.16,Default,,0,0,0,,It means "oven roasted."
-Dialogue: 0,0:18:02.86,0:18:03.95,Default,,0,0,0,,Yuta!
-Dialogue: 0,0:18:03.95,0:18:05.39,Default,,0,0,0,,Too hot!
-Dialogue: 0,0:18:13.71,0:18:14.88,Default,,0,0,0,,You shacked up?!
-Dialogue: 0,0:18:14.88,0:18:16.07,Default,,0,0,0,,Really?
-Dialogue: 0,0:18:16.25,0:18:18.57,Default,,0,0,0,,Like I said, it's not what you think.
-Dialogue: 0,0:18:18.75,0:18:20.44,Default,,0,0,0,,In what way?
-Dialogue: 0,0:18:20.44,0:18:23.99,Default,,0,0,0,,You're living together as \Nboyfriend and girlfriend.
-Dialogue: 0,0:18:23.99,0:18:26.46,Default,,0,0,0,,Please control your \Ndisgusting imagination.
-Dialogue: 0,0:18:26.64,0:18:28.60,Default,,0,0,0,,What do you mean, disgusting?
-Dialogue: 0,0:18:28.60,0:18:31.89,Default,,0,0,0,,I think you're the one \Nwith the dirty mind.
-Dialogue: 0,0:18:31.89,0:18:36.47,Default,,0,0,0,,W-what? I, Dekomori, am \Nalways pure of thought!
-Dialogue: 0,0:18:37.65,0:18:39.20,Default,,0,0,0,,You've gone beet red.
-Dialogue: 0,0:18:39.20,0:18:41.10,Default,,0,0,0,,For a little kid, you \Nhave a really dirty mind.
-Dialogue: 0,0:18:41.10,0:18:44.20,Default,,0,0,0,,Be quiet! Be quiet, \Nyou big-boobed freak!
-Dialogue: 0,0:18:44.20,0:18:45.35,Default,,0,0,0,,Hey, stop that!
-Dialogue: 0,0:18:45.61,0:18:48.23,Default,,0,0,0,,Shacking is sooo shocking!
-Dialogue: 0,0:18:49.08,0:18:50.62,Default,,0,0,0,,That hurt.
-Dialogue: 0,0:18:51.95,0:18:55.17,Default,,0,0,0,,Anyway, it's really \Nnot what you think...
-Dialogue: 0,0:18:55.17,0:18:56.61,Default,,0,0,0,,...and we had no choice.
-Dialogue: 0,0:18:56.71,0:18:59.30,Default,,0,0,0,,You're saying that a full grown \Nboy like yourself had no choice...
-Dialogue: 0,0:18:59.30,0:19:01.38,Default,,0,0,0,,....but to shack up with \Nmy little sister with whom
-Dialogue: 0,0:19:01.38,0:19:03.11,Default,,0,0,0,,you are in a romantic relationship?
-Dialogue: 0,0:19:03.11,0:19:05.04,Default,,0,0,0,,That's not what I meant.
-Dialogue: 0,0:19:05.04,0:19:06.97,Default,,0,0,0,,You are not in a romantic relationship?
-Dialogue: 0,0:19:06.97,0:19:07.96,Default,,0,0,0,,Uh, no...
-Dialogue: 0,0:19:08.09,0:19:09.43,Default,,0,0,0,,You guys split up?
-Dialogue: 0,0:19:09.43,0:19:10.97,Default,,0,0,0,,You dissolved your pact?
-Dialogue: 0,0:19:10.97,0:19:12.27,Default,,0,0,0,,Who dumped whom?
-Dialogue: 0,0:19:12.27,0:19:14.80,Default,,0,0,0,,Quit it! I'm saying we \Nare not "shacking up!"
-Dialogue: 0,0:19:15.10,0:19:16.21,Default,,0,0,0,,How is that different?
-Dialogue: 0,0:19:17.19,0:19:19.23,Default,,0,0,0,,Yes, we are living together...
-Dialogue: 0,0:19:19.23,0:19:21.19,Default,,0,0,0,,...but it's mostly because I was
-Dialogue: 0,0:19:21.19,0:19:23.12,Default,,0,0,0,,concerned about leaving \NRikka on her own.
-Dialogue: 0,0:19:23.12,0:19:26.81,Default,,0,0,0,,It's been almost a week now, and \Nnothing of the sort is going on.
-Dialogue: 0,0:19:26.95,0:19:27.99,Default,,0,0,0,,Of what sort?
-Dialogue: 0,0:19:27.99,0:19:28.93,Default,,0,0,0,,Beat it, all of you!
-Dialogue: 0,0:19:29.66,0:19:30.69,Default,,0,0,0,,How about it?
-Dialogue: 0,0:19:31.28,0:19:33.25,Default,,0,0,0,,Our contract remains unaltered.
-Dialogue: 0,0:19:33.25,0:19:36.00,Default,,0,0,0,,In other words, we're \Nnot "living together"...
-Dialogue: 0,0:19:36.33,0:19:38.46,Default,,0,0,0,,...that's it! We're roommates!
-Dialogue: 0,0:19:38.46,0:19:40.39,Default,,0,0,0,,It's a home share situation. You know!
-Dialogue: 0,0:19:40.39,0:19:41.03,Default,,0,0,0,,Ow!
-Dialogue: 0,0:19:41.21,0:19:43.46,Default,,0,0,0,,Do you think that logic will fly by me?
-Dialogue: 0,0:19:43.46,0:19:45.59,Default,,0,0,0,,Do you think I will permit that?
-Dialogue: 0,0:19:45.59,0:19:47.66,Default,,0,0,0,,You are a boy!
-Dialogue: 0,0:19:47.66,0:19:48.68,Default,,0,0,0,,My magazine!
-Dialogue: 0,0:19:48.68,0:19:50.83,Default,,0,0,0,,No matter what, you \Ncannot live together.
-Dialogue: 0,0:19:51.10,0:19:53.56,Default,,0,0,0,,I will find her an apartment. If \Nyou have a problem with that...
-Dialogue: 0,0:19:53.56,0:19:55.38,Default,,0,0,0,,...I will take Rikka to Italy with me.
-Dialogue: 0,0:19:55.73,0:19:56.71,Default,,0,0,0,,Italy?
-Dialogue: 0,0:19:56.98,0:19:59.70,Default,,0,0,0,,The magical society! The Cardinal!
-Dialogue: 0,0:20:00.33,0:20:02.97,Default,,0,0,0,,Am I to be imprisoned in such a place?
-Dialogue: 0,0:20:03.36,0:20:06.21,Default,,0,0,0,,Italy is home to the occult!
-Dialogue: 0,0:20:06.21,0:20:08.39,Default,,0,0,0,,The Vatican, Sixth Sense, \NI see dead people!
-Dialogue: 0,0:20:08.67,0:20:10.24,Default,,0,0,0,,Home to the occult?
-Dialogue: 0,0:20:10.24,0:20:12.17,Default,,0,0,0,,So, you want to go now?
-Dialogue: 0,0:20:12.70,0:20:13.31,Default,,0,0,0,,Yes?
-Dialogue: 0,0:20:14.24,0:20:15.32,Default,,0,0,0,,I'm home.
-Dialogue: 0,0:20:16.20,0:20:17.20,Default,,0,0,0,,Good evening.
-Dialogue: 0,0:20:17.62,0:20:19.53,Default,,0,0,0,,Kuzuha, why are you here?
-Dialogue: 0,0:20:20.13,0:20:21.67,Default,,0,0,0,,I came home.
-Dialogue: 0,0:20:21.67,0:20:24.82,Default,,0,0,0,,Surely you were told I was coming \Nback for the new school term.
-Dialogue: 0,0:20:25.21,0:20:27.08,Default,,0,0,0,,I was told? By who?
-Dialogue: 0,0:20:27.34,0:20:28.46,Default,,0,0,0,,By Mom.
-Dialogue: 0,0:20:31.30,0:20:32.87,Default,,0,0,0,,Oops, I forgot!
-Dialogue: 0,0:20:33.60,0:20:35.38,Default,,0,0,0,,Rikka has been living here?
-Dialogue: 0,0:20:36.04,0:20:37.13,Default,,0,0,0,,What's so bad about that?
-Dialogue: 0,0:20:37.27,0:20:37.98,Default,,0,0,0,,Huh?
-Dialogue: 0,0:20:37.98,0:20:40.20,Default,,0,0,0,,After all, she doesn't have \Nher own place, right?
-Dialogue: 0,0:20:40.20,0:20:42.04,Default,,0,0,0,,We have plenty of rooms here.
-Dialogue: 0,0:20:43.11,0:20:44.39,Default,,0,0,0,,You're really sure?
-Dialogue: 0,0:20:47.35,0:20:51.82,Default,,0,0,0,,To be honest, I was also concerned \Nabout leaving Rikka on her own.
-Dialogue: 0,0:20:52.24,0:20:55.27,Default,,0,0,0,,If you would act as supervisor, \Nit should be okay.
-Dialogue: 0,0:20:56.41,0:20:59.78,Default,,0,0,0,,I'm sorry. Please let her stay \Nhere just a little longer.
-Dialogue: 0,0:21:00.96,0:21:01.78,Default,,0,0,0,,Sure.
-Dialogue: 0,0:21:02.13,0:21:03.96,Default,,0,0,0,,Understood. You can count on me.
-Dialogue: 0,0:21:04.72,0:21:07.53,Default,,0,0,0,,Hurry up and find your own place.
-Dialogue: 0,0:21:08.51,0:21:12.96,Default,,0,0,0,,And so, my life alone with \NRikka came to an abrupt end...
-Dialogue: 0,0:21:12.96,0:21:15.46,OS,,0,0,0,,TOGASHI MAIL FOR NAKANISHI HERE
-Dialogue: 0,0:21:13.68,0:21:16.36,Default,,0,0,0,,...and three teenagers began \Nlife together in spring.
-Dialogue: 0,0:21:20.52,0:21:23.59,Default,,0,0,0,,Yuta's notebook. I forgot \Nto return it to him.
-Dialogue: 0,0:21:34.20,0:21:35.35,Default,,0,0,0,,Rikka?
-Dialogue: 0,0:21:40.00,0:21:41.23,Default,,0,0,0,,Not again.
-Dialogue: 0,0:21:44.21,0:21:44.97,Default,,0,0,0,,What the-?
-Dialogue: 0,0:21:46.25,0:21:48.29,Default,,0,0,0,,Did someone new move in?
-Dialogue: 0,0:21:49.21,0:21:52.16,Default,,0,0,0,,She never was able to \Nget her apartment back.
-Dialogue: 0,0:22:03.96,0:22:05.97,Default,,0,0,0,,To Be Continued
-Dialogue: 0,0:22:05.97,0:22:07.97,Default,,0,0,0,,
+Dialogue: 0,0:02:39.94,0:02:42.14,Default,,0,0,0,,Rikka, is sunny side up okay?
+Dialogue: 0,0:02:42.40,0:02:43.85,Default,,0,0,0,,Dark side up, please.
+Dialogue: 0,0:02:44.07,0:02:45.64,Default,,0,0,0,,"Sunny side up" it is.
+Dialogue: 0,0:02:46.07,0:02:47.64,Default,,0,0,0,,Turn over!
+Dialogue: 0,0:02:47.91,0:02:49.04,Default,,0,0,0,,So, which is it?
+Dialogue: 0,0:02:49.50,0:02:51.36,Default,,0,0,0,,I  told her  about too many options.
+Dialogue: 0,0:02:51.74,0:02:53.04,Default,,0,0,0,,Yuta!
+Dialogue: 0,0:02:53.04,0:02:53.65,Default,,0,0,0,,What is it?
+Dialogue: 0,0:02:53.87,0:02:55.86,Default,,0,0,0,,I don't have the ribbon \Nfor my school uniform.
+Dialogue: 0,0:02:56.21,0:02:57.25,Default,,0,0,0,,Huh?
+Dialogue: 0,0:02:57.25,0:02:59.03,Default,,0,0,0,,Gasp! No way! Was it their doing?!
+Dialogue: 0,0:02:59.38,0:03:01.46,Default,,0,0,0,,I let my guard down.
+Dialogue: 0,0:03:01.46,0:03:04.62,Default,,0,0,0,,That's why I told you to \Nprepare it yesterday.
+Dialogue: 0,0:03:05.13,0:03:06.03,Default,,0,0,0,,I'm coming in.
+Dialogue: 0,0:03:10.80,0:03:13.01,Default,,0,0,0,,This is a busy time! What the hell are you doing!?
+Dialogue: 0,0:03:13.01,0:03:14.56,Default,,0,0,0,,I'll yank out your antenna hair!
+Dialogue: 0,0:03:14.56,0:03:17.17,Default,,0,0,0,,Please don't! It's my \Nmost charming feature!
+Dialogue: 0,0:03:17.89,0:03:22.34,Default,,0,0,0,,Rikka's mother also had to move out \Nof town for work this spring...
+Dialogue: 0,0:03:23.11,0:03:26.85,Default,,0,0,0,,...which led to Rikka having to \Nlive on her own as well, however...
+Dialogue: 0,0:03:27.35,0:03:28.38,Default,,0,0,0,,Heave-ho...
+Dialogue: 0,0:03:28.38,0:03:30.48,Default,,0,0,0,,Why are your possessions being moved out?
+Dialogue: 0,0:03:30.70,0:03:32.98,Default,,0,0,0,,Have they finally made their move?!
+Dialogue: 0,0:03:33.24,0:03:36.48,Default,,0,0,0,,What? Rikka's grandfather accidentally \Nlet go of their apartment?
+Dialogue: 0,0:03:36.75,0:03:38.23,Default,,0,0,0,,It's sabotage!
+Dialogue: 0,0:03:39.18,0:03:42.00,Default,,0,0,0,,I guess you'll have to live with me \Nuntil your new place is sorted out.
+Dialogue: 0,0:03:42.42,0:03:44.61,Default,,0,0,0,,Activating emergency code: Triple Four!
+Dialogue: 0,0:03:45.46,0:03:49.45,Default,,0,0,0,,And so, Rikka temporarily \Ncame to live with me.
+Dialogue: 0,0:03:50.47,0:03:53.23,Default,,0,0,0,,It's pleasant to be woken up by you.
+Dialogue: 0,0:03:53.23,0:03:55.10,Default,,0,0,0,,See it from my standpoint.
+Dialogue: 0,0:03:55.50,0:03:56.92,Default,,0,0,0,,That would never fly with the priestess.
+Dialogue: 0,0:03:56.92,0:04:01.56,Default,,0,0,0,,I lied to Toka and told her I'd \Nplaced Rikka in a small apartment
+Dialogue: 0,0:04:01.56,0:04:04.81,Default,,0,0,0,,and we are one week into \Nour deceitful life.
+Dialogue: 0,0:04:05.94,0:04:08.72,Default,,0,0,0,,Chimera, I give you my demonic fruit.
+Dialogue: 0,0:04:09.40,0:04:12.69,Default,,0,0,0,,You're getting used to these red fruits.
+Dialogue: 0,0:04:14.12,0:04:15.35,Default,,0,0,0,,This proves nothing!
+Dialogue: 0,0:04:18.33,0:04:21.67,Default,,0,0,0,,Try one. They taste as \Ngood as strawberries.
+Dialogue: 0,0:04:21.67,0:04:23.11,Default,,0,0,0,,How can that be?
+Dialogue: 0,0:04:24.50,0:04:27.81,Default,,0,0,0,,You're becoming more and \Nmore like the priestess.
+Dialogue: 0,0:04:29.03,0:04:30.84,Default,,0,0,0,,Are you under her influence?!
+Dialogue: 0,0:04:30.84,0:04:32.45,Default,,0,0,0,,I'm saying it for your own good.
+Dialogue: 0,0:04:35.39,0:04:36.54,Default,,0,0,0,,Yuta!
+Dialogue: 0,0:04:36.76,0:04:39.98,Default,,0,0,0,,The fluid! The green, squishy \Nmatter is attacking me!
+Dialogue: 0,0:04:39.98,0:04:42.09,Default,,0,0,0,,Wait! Stay perfectly still.
+Dialogue: 0,0:04:42.27,0:04:44.22,Default,,0,0,0,,Wiping at it will only make it worse.
+Dialogue: 0,0:04:44.44,0:04:47.07,Default,,0,0,0,,You need to dab at it like this...
+Dialogue: 0,0:04:48.24,0:04:53.03,OS,,0,0,0,,{\i1}If you're heading out, please do take \Na collapsible umbrella with you.{\i0}
+Dialogue: 0,0:04:53.57,0:04:56.35,Default,,0,0,0,,You could say we're dating.
+Dialogue: 0,0:04:56.58,0:04:58.36,Default,,0,0,0,,We're dating, but...
+Dialogue: 0,0:04:58.79,0:05:02.28,Default,,0,0,0,,How do you get to romance if it has to be concealed?
+Dialogue: 0,0:05:03.21,0:05:06.25,Default,,0,0,0,,I've never even had a normal \Ngirlfriend before...
+Dialogue: 0,0:05:06.25,0:05:09.01,Default,,0,0,0,,...so having a first girlfriend with \Nchunibyo will be even harder.
+Dialogue: 0,0:05:09.63,0:05:14.08,Default,,0,0,0,,Things settled down in a way that \Nisn't much different from before.
+Dialogue: 0,0:05:16.76,0:05:18.39,Default,,0,0,0,,Guten morgen!
+Dialogue: 0,0:05:18.39,0:05:22.05,Default,,0,0,0,,My name is Shinka Nibutani, and I'm in the 11th grade.
+Dialogue: 0,0:05:22.39,0:05:23.64,Default,,0,0,0,,Nibutani-san?
+Dialogue: 0,0:05:23.64,0:05:24.80,Default,,0,0,0,,Nibutani-san!
+Dialogue: 0,0:05:25.15,0:05:27.05,Default,,0,0,0,,How do you do, everyone?
+Dialogue: 0,0:05:27.05,0:05:28.73,Default,,0,0,0,,Let's make it another good year.
+Dialogue: 0,0:05:29.55,0:05:30.71,Default,,0,0,0,,Sure.
+Dialogue: 0,0:05:31.61,0:05:32.82,Default,,0,0,0,,What's wrong with her?
+Dialogue: 0,0:05:32.82,0:05:33.68,Default,,0,0,0,,High school two syndrome?
+Dialogue: 0,0:05:34.32,0:05:35.89,Default,,0,0,0,,I'm going to say this one more time.
+Dialogue: 0,0:05:37.70,0:05:39.73,Default,,0,0,0,,Remember what you promised yesterday.
+Dialogue: 0,0:05:39.95,0:05:40.95,Default,,0,0,0,,Of course.
+Dialogue: 0,0:05:40.95,0:05:44.22,Default,,0,0,0,,Based on the hieroglyphs, the \Nhateful magic barrier attack
+Dialogue: 0,0:05:44.22,0:05:45.79,Default,,0,0,0,,triggered by the Freemasons...
+Dialogue: 0,0:05:45.79,0:05:46.77,Default,,0,0,0,,Wrong!
+Dialogue: 0,0:05:46.77,0:05:49.38,Default,,0,0,0,,Our uninvited guests the \Nunfathomable parallel world?
+Dialogue: 0,0:05:49.38,0:05:50.48,Default,,0,0,0,,Not that either.
+Dialogue: 0,0:05:50.92,0:05:54.16,Default,,0,0,0,,Do you mean our discussion about \Nperforming the Schrodinger's
+Dialogue: 0,0:05:54.16,0:05:55.81,Default,,0,0,0,,cat experiment using Chimera?
+Dialogue: 0,0:05:55.81,0:05:57.00,Default,,0,0,0,,Never! Don't do it!
+Dialogue: 0,0:05:57.68,0:06:00.85,Default,,0,0,0,,You know. How we're living \Ntogether at my place.
+Dialogue: 0,0:06:00.85,0:06:02.52,Default,,0,0,0,,I see.  I remember now.
+Dialogue: 0,0:06:02.52,0:06:04.50,Default,,0,0,0,,That is the only thing \NI spoke to you about.
+Dialogue: 0,0:06:05.19,0:06:07.44,Default,,0,0,0,,We should  visit the real estate agent again today.
+Dialogue: 0,0:06:08.40,0:06:10.98,Default,,0,0,0,,If you are referring to my new \Nbase, it has already been located.
+Dialogue: 0,0:06:10.98,0:06:11.73,Default,,0,0,0,,Seriously!?
+Dialogue: 0,0:06:12.11,0:06:14.49,Default,,0,0,0,,It is the demon world of \Nthe impossibly Wicked One,
+Dialogue: 0,0:06:14.49,0:06:15.68,Default,,0,0,0,,invisible to mere mortals!
+Dialogue: 0,0:06:15.82,0:06:18.05,Default,,0,0,0,,I thought you were being serious!
+Dialogue: 0,0:06:18.05,0:06:19.29,Default,,0,0,0,,I'll yank out your antenna hair!
+Dialogue: 0,0:06:19.29,0:06:20.69,Default,,0,0,0,,No, stop!
+Dialogue: 0,0:06:21.08,0:06:23.06,Default,,0,0,0,,I see you lovebirds are already at it.
+Dialogue: 0,0:06:23.33,0:06:24.25,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:06:24.25,0:06:26.71,Default,,0,0,0,,It's me, Isshiki. Makoto Isshiki!
+Dialogue: 0,0:06:26.71,0:06:27.83,Default,,0,0,0,,You know him?
+Dialogue: 0,0:06:27.83,0:06:28.45,Default,,0,0,0,,Nope.
+Dialogue: 0,0:06:28.67,0:06:31.45,Default,,0,0,0,,It's me! The guy in \Nthe Light Music Club!
+Dialogue: 0,0:06:31.45,0:06:33.78,Default,,0,0,0,,The guy who sacrificed everything \Nfor upperclassman Kumi!
+Dialogue: 0,0:06:34.05,0:06:35.63,Default,,0,0,0,,Oh, it's the crew cut guy.
+Dialogue: 0,0:06:35.63,0:06:37.05,Default,,0,0,0,,Mister Crew Cut!
+Dialogue: 0,0:06:37.05,0:06:40.21,Default,,0,0,0,,Stop calling me that! That \Nversion of me is dead!
+Dialogue: 0,0:06:40.64,0:06:43.52,Default,,0,0,0,,Just look at my Rock'n'Roll head!
+Dialogue: 0,0:06:43.52,0:06:46.31,Default,,0,0,0,,Isshiki, what happened to your head?
+Dialogue: 0,0:06:46.31,0:06:46.96,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:47.15,0:06:49.36,Default,,0,0,0,,Let's go visit the student councilor.
+Dialogue: 0,0:06:49.36,0:06:50.90,Default,,0,0,0,,You're getting it all wrong, Sensei.
+Dialogue: 0,0:06:50.90,0:06:54.03,Default,,0,0,0,,My hair type changed when it grew back.
+Dialogue: 0,0:06:54.03,0:06:54.60,Default,,0,0,0,,Yeah whatever...
+Dialogue: 0,0:06:54.86,0:06:57.47,Default,,0,0,0,,Hey, Kumin-senpai! Good morning!
+Dialogue: 0,0:06:57.53,0:06:59.37,Default,,0,0,0,,I wonder who that was?
+Dialogue: 0,0:06:59.37,0:07:00.19,Default,,0,0,0,,Kumin.
+Dialogue: 0,0:07:00.78,0:07:03.27,Default,,0,0,0,,Rikka-chan and Togashi-kun. Morning.
+Dialogue: 0,0:07:03.79,0:07:06.00,Default,,0,0,0,,You're both 11th graders today.
+Dialogue: 0,0:07:06.33,0:07:09.03,Default,,0,0,0,,And now you're a 12th grader.
+Dialogue: 0,0:07:09.29,0:07:11.79,Default,,0,0,0,,Uh-huh. And it's such a let-down.
+Dialogue: 0,0:07:11.79,0:07:13.67,Default,,0,0,0,,'Cause you'll have to \Nstudy for university.
+Dialogue: 0,0:07:14.17,0:07:17.34,Default,,0,0,0,,Uh-uh, that isn't what I \Nmean. I'm disappointed.
+Dialogue: 0,0:07:17.34,0:07:18.54,Default,,0,0,0,,Want to know why?
+Dialogue: 0,0:07:18.84,0:07:19.41,Default,,0,0,0,,Why?
+Dialogue: 0,0:07:19.97,0:07:22.15,Default,,0,0,0,,Because 12th grade is sooo next year.
+Dialogue: 0,0:07:24.02,0:07:25.58,Default,,0,0,0,,That's funny.
+Dialogue: 0,0:07:25.58,0:07:28.81,Default,,0,0,0,,That's how it told me to deliver it.
+Dialogue: 0,0:07:28.81,0:07:30.59,Default,,0,0,0,,Um, what is that?
+Dialogue: 0,0:07:30.77,0:07:34.69,Default,,0,0,0,,You know? I want to make everyone laugh just like how Morisummer-chan did
+Dialogue: 0,0:07:37.40,0:07:39.81,Default,,0,0,0,,Growing older brings many changes.
+Dialogue: 0,0:07:42.28,0:07:43.79,Default,,0,0,0,,Morisummer-chan!
+Dialogue: 0,0:07:44.12,0:07:47.40,Default,,0,0,0,,Morning! What are you supposed to be?
+Dialogue: 0,0:07:49.33,0:07:51.46,Default,,0,0,0,,How do you do, Kumin-senpai.
+Dialogue: 0,0:07:51.46,0:07:53.70,Default,,0,0,0,,I am wearing normal attire.
+Dialogue: 0,0:07:53.96,0:07:55.22,Default,,0,0,0,,"How do you do?"
+Dialogue: 0,0:07:55.22,0:07:57.25,Default,,0,0,0,,Are you experiencing advanced senility?
+Dialogue: 0,0:07:57.25,0:07:59.55,Default,,0,0,0,,Senpai, if I might have a word...
+Dialogue: 0,0:08:00.21,0:08:02.18,Default,,0,0,0,,Morisummer-chan, where are we going?
+Dialogue: 0,0:08:04.26,0:08:05.79,OS,,0,0,0,,DEKO                                                                                                      \NDEKO MIDDLE                                                                                               MIDDLE
+Dialogue: 0,0:08:04.39,0:08:05.79,Default,,0,0,0,,Death.
+Dialogue: 0,0:08:06.22,0:08:11.30,Default,,0,0,0,,So then, let's make this another spirited school year!
+Dialogue: 0,0:08:11.65,0:08:13.43,Default,,0,0,0,,{\a6}Thank you for that.
+Dialogue: 0,0:08:11.90,0:08:13.44,Default,,0,0,0,,I'll show you.
+Dialogue: 0,0:08:13.44,0:08:15.29,Default,,0,0,0,,I made a lot of mistakes...
+Dialogue: 0,0:08:15.29,0:08:16.80,Default,,0,0,0,,but my second year will be completely different.
+Dialogue: 0,0:08:17.53,0:08:21.74,Default,,0,0,0,,I swear I will claw my way \Nto the top of this school!
+Dialogue: 0,0:08:17.78,0:08:20.36,Default,,0,0,0,,{\a6}The next speech comes \Nfrom our new students...
+Dialogue: 0,0:08:20.36,0:08:22.76,Default,,0,0,0,,{\a6}...represented by Dekomori Sanae-san.
+Dialogue: 0,0:08:22.76,0:08:23.39,Default,,0,0,0,,Wha-?!
+Dialogue: 0,0:08:26.99,0:08:29.78,Default,,0,0,0,,{\a6}I am the new student \Nrepresentative, Sanae Dekomori.
+Dialogue: 0,0:08:30.83,0:08:32.78,Default,,0,0,0,,{\a6}With the warm days of Spring...
+Dialogue: 0,0:08:33.21,0:08:35.67,Default,,0,0,0,,{\a6}...the trees become enrobed \Nin fresh, new green livery.
+Dialogue: 0,0:08:33.96,0:08:38.02,Default,,0,0,0,,They say that she got better grades \Nthan you had last year, Nibutani-san.
+Dialogue: 0,0:08:35.67,0:08:39.03,Default,,0,0,0,,{\a6}Our student lives also begin anew.
+Dialogue: 0,0:08:38.02,0:08:39.03,Default,,0,0,0,,Mm?
+Dialogue: 0,0:08:39.03,0:08:40.20,Default,,0,0,0,,That's amazing.
+Dialogue: 0,0:08:40.74,0:08:41.75,Default,,0,0,0,,Deko!
+Dialogue: 0,0:08:41.75,0:08:43.97,Default,,0,0,0,,Hey, what happened?
+Dialogue: 0,0:08:50.14,0:08:51.17,Default,,0,0,0,,Ahem.
+Dialogue: 0,0:08:51.77,0:08:57.09,Default,,0,0,0,,I believe everyone knows that there are white and black worlds.
+Dialogue: 0,0:08:57.09,0:08:57.59,Default,,0,0,0,,Wha-?
+Dialogue: 0,0:08:58.44,0:09:01.74,Default,,0,0,0,,"Seeing spirits requires \Nthe proper heart."
+Dialogue: 0,0:09:01.99,0:09:03.94,Default,,0,0,0,,"Love is everything."
+Dialogue: 0,0:09:07.37,0:09:09.12,Default,,0,0,0,,Hey, are you feeling all right?
+Dialogue: 0,0:09:09.12,0:09:12.08,Default,,0,0,0,,Sensei, Nibutani-san has fainted!
+Dialogue: 0,0:09:12.08,0:09:13.74,Default,,0,0,0,,What are they doing?
+Dialogue: 0,0:09:13.92,0:09:16.24,Default,,0,0,0,,We share the same class \Nonce again, Light Being.
+Dialogue: 0,0:09:17.75,0:09:19.53,Default,,0,0,0,,What are you saying, Takanashi-san?
+Dialogue: 0,0:09:19.76,0:09:20.59,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:09:20.59,0:09:21.86,Default,,0,0,0,,Takanashi-san!
+Dialogue: 0,0:09:23.02,0:09:24.39,Default,,0,0,0,,We're in the same class.
+Dialogue: 0,0:09:24.39,0:09:25.84,Default,,0,0,0,,Let's have another good year.
+Dialogue: 0,0:09:26.30,0:09:27.33,Default,,0,0,0,,Let's.
+Dialogue: 0,0:09:27.33,0:09:29.50,Default,,0,0,0,,Nanase-sensei is our home room teacher.
+Dialogue: 0,0:09:29.77,0:09:31.17,Default,,0,0,0,,Togashi.
+Dialogue: 0,0:09:31.48,0:09:33.96,Default,,0,0,0,,They told to get my hair \Ncut for school tomorrow.
+Dialogue: 0,0:09:33.96,0:09:34.83,Default,,0,0,0,,What do I do?
+Dialogue: 0,0:09:34.83,0:09:37.27,Default,,0,0,0,,Like I'd know? This is your fault!
+Dialogue: 0,0:09:37.27,0:09:39.53,Default,,0,0,0,,Wait, are we in the same class again?
+Dialogue: 0,0:09:39.53,0:09:41.05,Default,,0,0,0,,No, I'm in Class 3 next door.
+Dialogue: 0,0:09:41.28,0:09:42.28,Default,,0,0,0,,Really?
+Dialogue: 0,0:09:42.28,0:09:43.26,Default,,0,0,0,,Is that relief?!
+Dialogue: 0,0:09:43.26,0:09:46.45,Default,,0,0,0,,You made no attempt to hide your relief!
+Dialogue: 0,0:09:46.45,0:09:48.19,Default,,0,0,0,,Togashi-kun, a moment.
+Dialogue: 0,0:09:48.19,0:09:49.65,Default,,0,0,0,,Who is this babe?
+Dialogue: 0,0:09:50.04,0:09:51.20,Default,,0,0,0,,Pleased to meet you.
+Dialogue: 0,0:09:51.20,0:09:54.76,Default,,0,0,0,,Are you Togashi's friend? I'm Nibutani—
+Dialogue: 0,0:09:53.21,0:09:54.53,Default,,0,0,0,,{\a6}Pot, meet kettle.
+Dialogue: 0,0:09:55.21,0:09:57.90,Default,,0,0,0,,I'm only bringing this up \Nbecause we're in the same class.
+Dialogue: 0,0:09:58.25,0:10:01.38,Default,,0,0,0,,I told Tatenashi-san not to mention our middle school
+Dialogue: 0,0:10:01.38,0:10:04.26,Default,,0,0,0,,memories at all.
+Dialogue: 0,0:10:04.26,0:10:05.79,Default,,0,0,0,,Are you still on that?
+Dialogue: 0,0:10:06.47,0:10:08.76,Default,,0,0,0,,I pondered all summer break.
+Dialogue: 0,0:10:08.76,0:10:12.05,Default,,0,0,0,,I pondered about going to this high school.
+Dialogue: 0,0:10:12.56,0:10:15.30,Default,,0,0,0,,Do I really intend to spend three \Nyears of my life in that loser's club?
+Dialogue: 0,0:10:16.77,0:10:18.40,Default,,0,0,0,,Hey, are you okay?
+Dialogue: 0,0:10:18.40,0:10:20.23,Default,,0,0,0,,Servant to Wicked Lord Shingan!
+Dialogue: 0,0:10:20.23,0:10:22.51,Default,,0,0,0,,User of the Mjolnir \NHammer, Sanae Dekomori...
+Dialogue: 0,0:10:22.51,0:10:24.26,Default,,0,0,0,,...is hereby reborn!
+Dialogue: 0,0:10:27.41,0:10:29.83,Default,,0,0,0,,Only the deviously \Ndevious Fake Morisummer
+Dialogue: 0,0:10:29.83,0:10:32.12,Default,,0,0,0,,would dare stage an attack \Non me in my temporary guise.
+Dialogue: 0,0:10:32.12,0:10:33.82,Default,,0,0,0,,You are rotten to the core.
+Dialogue: 0,0:10:34.16,0:10:35.82,Default,,0,0,0,,Now observe!
+Dialogue: 0,0:10:36.08,0:10:38.63,Default,,0,0,0,,I spin right left, and left right.
+Dialogue: 0,0:10:38.63,0:10:42.34,Default,,0,0,0,,The opposing revolutions shall produce \Na kink between dimensions and space!
+Dialogue: 0,0:10:42.84,0:10:47.50,Default,,0,0,0,,And by adding an additional revolution, \NI shall produce unlimited power!
+Dialogue: 0,0:10:47.50,0:10:48.96,Default,,0,0,0,,Take this! The Mjolnir...
+Dialogue: 0,0:10:50.43,0:10:52.71,Default,,0,0,0,,You sure have weak semicircular canals.
+Dialogue: 0,0:10:53.05,0:10:55.43,Default,,0,0,0,,Dekomori will not be defeated!
+Dialogue: 0,0:10:56.13,0:10:59.00,OS,,0,0,0,,Rich Cheese (6 pcs)
+Dialogue: 0,0:10:56.35,0:10:59.00,Default,,0,0,0,,Because you're such an \Nenergetic First Year...
+Dialogue: 0,0:10:59.40,0:11:01.82,Default,,0,0,0,,...as a reward, I will \Ngive you the cheese
+Dialogue: 0,0:11:01.82,0:11:03.17,Default,,0,0,0,,love. So. Much.
+Dialogue: 0,0:11:04.19,0:11:06.03,Default,,0,0,0,,Don't you think you're overdoing it?
+Dialogue: 0,0:11:06.03,0:11:08.56,Default,,0,0,0,,One must deal with trouble \Nof one's creation.
+Dialogue: 0,0:11:09.95,0:11:11.52,Default,,0,0,0,,Paging a student.
+Dialogue: 0,0:11:12.04,0:11:15.50,Default,,0,0,0,,Rikka Takanashi from Year 2, Class 4.
+Dialogue: 0,0:11:15.50,0:11:18.58,Default,,0,0,0,,Please report to the staff \Nroom immediately. I repeat.
+Dialogue: 0,0:11:18.71,0:11:20.70,Default,,0,0,0,,Rikka Takanashi from Year 2, Class 4,
+Dialogue: 0,0:11:20.70,0:11:22.70,Default,,0,0,0,,please report to the \Nstaff room immediately.
+Dialogue: 0,0:11:22.70,0:11:25.13,Default,,0,0,0,,The school has been \Noverrun by terrorists!
+Dialogue: 0,0:11:26.01,0:11:27.43,Default,,0,0,0,,Nah.
+Dialogue: 0,0:11:36.23,0:11:37.27,Default,,0,0,0,,Letters?
+Dialogue: 0,0:11:37.27,0:11:40.88,Default,,0,0,0,,That's the thing. The school mailed \Nat least three to your home.
+Dialogue: 0,0:11:41.23,0:11:43.19,Default,,0,0,0,,They all came back returned to sender.
+Dialogue: 0,0:11:43.19,0:11:45.01,Default,,0,0,0,,That may be due to the fact that my
+Dialogue: 0,0:11:45.01,0:11:46.56,Default,,0,0,0,,existence had been \Nerased from this world.
+Dialogue: 0,0:11:46.94,0:11:50.43,Default,,0,0,0,,When we phone you, it says \Nthat number is not in use.
+Dialogue: 0,0:11:50.57,0:11:52.19,Default,,0,0,0,,My existence had been erased.
+Dialogue: 0,0:11:52.45,0:11:56.61,Default,,0,0,0,,But you exist right now, so \Nperhaps it'll go through now.
+Dialogue: 0,0:11:56.70,0:11:57.48,Default,,0,0,0,,You won't.
+Dialogue: 0,0:11:57.79,0:11:58.32,Default,,0,0,0,,Why not?
+Dialogue: 0,0:11:59.12,0:12:00.54,Default,,0,0,0,,My eye! My eye!
+Dialogue: 0,0:12:00.54,0:12:01.86,Default,,0,0,0,,That's way too weak!
+Dialogue: 0,0:12:01.86,0:12:02.86,OS,,0,0,0,,Far-East Magical Napping \NSociety - Summer Thereof
+Dialogue: 0,0:12:03.38,0:12:07.37,Default,,0,0,0,,She seemed to buy it, but at this rate, it'll get ugly.
+Dialogue: 0,0:12:07.37,0:12:09.51,Default,,0,0,0,,Don't say that.
+Dialogue: 0,0:12:09.51,0:12:11.02,Default,,0,0,0,,But it's hard.
+Dialogue: 0,0:12:11.68,0:12:13.75,Default,,0,0,0,,Can't you just try to take a bite?
+Dialogue: 0,0:12:20.06,0:12:22.47,Default,,0,0,0,,Come over here and sit down with us, Rikka.
+Dialogue: 0,0:12:22.90,0:12:23.96,Default,,0,0,0,,No, I'm good.
+Dialogue: 0,0:12:24.27,0:12:26.73,Default,,0,0,0,,The incubus lives in that coffin.
+Dialogue: 0,0:12:26.73,0:12:30.60,Default,,0,0,0,,Even one forged in the darkness \Nsuch as I dare not approach.
+Dialogue: 0,0:12:31.20,0:12:34.48,Default,,0,0,0,,I once experienced a frightening \Ndream while under its influence.
+Dialogue: 0,0:12:35.03,0:12:36.86,Default,,0,0,0,,Really? What did you dream about?
+Dialogue: 0,0:12:41.79,0:12:45.50,Default,,0,0,0,,Ugh, the light! The Light \NBeing is paralyzing me!
+Dialogue: 0,0:12:45.75,0:12:47.09,Default,,0,0,0,,What're you doing?
+Dialogue: 0,0:12:47.09,0:12:47.80,Default,,0,0,0,,Ow?
+Dialogue: 0,0:12:48.21,0:12:49.97,Default,,0,0,0,,Why is "ow" in the form of a question?
+Dialogue: 0,0:12:49.97,0:12:51.20,Default,,0,0,0,,No particular reason.
+Dialogue: 0,0:12:51.47,0:12:53.98,Default,,0,0,0,,If you had to choose, where \Nwould you want to live?
+Dialogue: 0,0:12:54.30,0:12:55.22,Default,,0,0,0,,Live?
+Dialogue: 0,0:12:55.22,0:12:56.93,Default,,0,0,0,,What we were talking about before.
+Dialogue: 0,0:12:57.81,0:12:59.96,Default,,0,0,0,,Regarding your new base \Nand battle formation.
+Dialogue: 0,0:13:00.18,0:13:01.98,Default,,0,0,0,,The base where my Wicked Lord
+Dialogue: 0,0:13:01.98,0:13:04.13,Default,,0,0,0,,Shingan and the Dark \NFlame Master manifest...
+Dialogue: 0,0:13:04.13,0:13:07.09,Default,,0,0,0,,...is also an excellent \Ngeomagnetic focal point.
+Dialogue: 0,0:13:07.48,0:13:09.26,Default,,0,0,0,,You know it that's out.
+Dialogue: 0,0:13:09.40,0:13:10.81,Default,,0,0,0,,I know.
+Dialogue: 0,0:13:13.45,0:13:14.35,Default,,0,0,0,,Nibutani.
+Dialogue: 0,0:13:14.95,0:13:16.74,Default,,0,0,0,,Hey, what's with the costume?
+Dialogue: 0,0:13:16.74,0:13:18.16,Default,,0,0,0,,Is that idiot here?
+Dialogue: 0,0:13:18.16,0:13:21.23,Default,,0,0,0,,Look what she did to my \Ncostume for Theatre Club!
+Dialogue: 0,0:13:19.91,0:13:21.23,Default,,0,0,0,,{\a6}FAKE
+Dialogue: 0,0:13:21.87,0:13:23.04,Default,,0,0,0,,She's sleeping inside.
+Dialogue: 0,0:13:23.04,0:13:23.86,Default,,0,0,0,,Sleeping?
+Dialogue: 0,0:13:24.38,0:13:26.16,Default,,0,0,0,,How convenient.
+Dialogue: 0,0:13:24.76,0:13:27.49,OS,,0,0,0,,PERMANENT MARKER
+Dialogue: 0,0:13:27.59,0:13:28.34,Default,,0,0,0,,Later!
+Dialogue: 0,0:13:28.34,0:13:28.96,Default,,0,0,0,,Later.
+Dialogue: 0,0:13:28.96,0:13:30.42,Default,,0,0,0,,What, you're leaving?
+Dialogue: 0,0:13:30.42,0:13:31.97,Default,,0,0,0,,Something like that.
+Dialogue: 0,0:13:31.97,0:13:34.22,Default,,0,0,0,,We must search for a new base.
+Dialogue: 0,0:13:34.22,0:13:36.08,Default,,0,0,0,,Zip it. C'mon.
+Dialogue: 0,0:13:36.39,0:13:37.37,Default,,0,0,0,,Base?
+Dialogue: 0,0:13:38.07,0:13:39.38,Default,,0,0,0,,For all that...
+Dialogue: 0,0:13:39.85,0:13:43.26,Default,,0,0,0,,I have no idea where you \Nshould set up house alone.
+Dialogue: 0,0:13:43.56,0:13:46.71,Default,,0,0,0,,I favor a subterranean labyrinth, \Nbut a medieval castle will do.
+Dialogue: 0,0:13:46.94,0:13:48.57,Default,,0,0,0,,Get real.
+Dialogue: 0,0:13:48.57,0:13:51.94,Default,,0,0,0,,Past the corner store, there's a castle \Nbuilding that says "Parliament" on it.
+Dialogue: 0,0:13:54.03,0:13:56.68,Default,,0,0,0,,You idiot! Stay away from that place!
+Dialogue: 0,0:13:56.68,0:13:58.15,Default,,0,0,0,,Yuta.
+Dialogue: 0,0:13:58.41,0:14:01.73,Default,,0,0,0,,I'm sorry. I didn't realize \Nhow expensive rent is...
+Dialogue: 0,0:14:01.73,0:14:04.65,Default,,0,0,0,,I mean, I knew it might be expensive.
+Dialogue: 0,0:14:05.38,0:14:07.61,Default,,0,0,0,,Actually, I don't know \Nmuch about it either.
+Dialogue: 0,0:14:10.41,0:14:11.70,Default,,0,0,0,,It has to be expensive.
+Dialogue: 0,0:14:18.35,0:14:19.33,Default,,0,0,0,,Yuta.
+Dialogue: 0,0:14:20.81,0:14:24.42,Default,,0,0,0,,Will I be barred from this place once \NI have transferred to my new base?
+Dialogue: 0,0:14:24.85,0:14:26.40,Default,,0,0,0,,Don't be silly.
+Dialogue: 0,0:14:26.40,0:14:30.01,Default,,0,0,0,,But I won't come here when I \Ncommute to and from school.
+Dialogue: 0,0:14:30.69,0:14:32.68,Default,,0,0,0,,Well, yeah, probably not.
+Dialogue: 0,0:14:33.11,0:14:37.03,Default,,0,0,0,,I won't be able to go to your room to \Nreport activity in the magical realm.
+Dialogue: 0,0:14:37.41,0:14:38.98,Default,,0,0,0,,What a shame.
+Dialogue: 0,0:14:39.49,0:14:40.48,Default,,0,0,0,,But...
+Dialogue: 0,0:14:43.87,0:14:45.98,Default,,0,0,0,,I'll drop by to pick you up for school.
+Dialogue: 0,0:14:46.33,0:14:49.64,Default,,0,0,0,,We need to find you a place \Nnearby so I can visit.
+Dialogue: 0,0:14:51.30,0:14:53.49,Default,,0,0,0,,Don't you want to stay together?
+Dialogue: 0,0:14:56.76,0:14:58.37,Default,,0,0,0,,You two!
+Dialogue: 0,0:14:59.57,0:15:00.83,Default,,0,0,0,,Nibutani.
+Dialogue: 0,0:15:01.22,0:15:04.89,Default,,0,0,0,,Takanashi's apartment is \Nvacant. What's going on?
+Dialogue: 0,0:15:05.39,0:15:07.65,Default,,0,0,0,,Did you move, Rikka?
+Dialogue: 0,0:15:07.65,0:15:09.15,Default,,0,0,0,,Well, actually...
+Dialogue: 0,0:15:09.15,0:15:10.84,Default,,0,0,0,,Let's have an explanation.
+Dialogue: 0,0:15:12.07,0:15:13.85,Default,,0,0,0,,Toka?!
+Dialogue: 0,0:15:14.40,0:15:16.53,Default,,0,0,0,,We leave for Italy soon...
+Dialogue: 0,0:15:16.53,0:15:19.51,Default,,0,0,0,,...but you won't give me your new \Naddress or answer your phone.
+Dialogue: 0,0:15:19.51,0:15:20.60,Default,,0,0,0,,What's the story?
+Dialogue: 0,0:15:20.70,0:15:23.16,Default,,0,0,0,,Uh, it's not what you think!
+Dialogue: 0,0:15:24.70,0:15:26.16,Default,,0,0,0,,Yuta! Run for it!
+Dialogue: 0,0:15:26.16,0:15:27.12,Default,,0,0,0,,You dummy!
+Dialogue: 0,0:15:27.12,0:15:31.28,Default,,0,0,0,,I see. You are attempting \Nto maintain secrecy.
+Dialogue: 0,0:15:32.84,0:15:33.87,Default,,0,0,0,,Master!
+Dialogue: 0,0:15:34.26,0:15:35.34,Default,,0,0,0,,Schwing!
+Dialogue: 0,0:15:35.34,0:15:36.20,Default,,0,0,0,,Dekomori!
+Dialogue: 0,0:15:36.47,0:15:39.72,Default,,0,0,0,,I was right to tail Fake Summer!
+Dialogue: 0,0:15:39.72,0:15:43.35,Default,,0,0,0,,I, your loyal servant, will \Nbuy you the time you need!
+Dialogue: 0,0:15:43.35,0:15:45.79,Default,,0,0,0,,Masters, please evacuate to safety!
+Dialogue: 0,0:15:46.02,0:15:48.69,Default,,0,0,0,,Do you realize who you're up against?
+Dialogue: 0,0:15:48.69,0:15:49.92,Default,,0,0,0,,Natch!
+Dialogue: 0,0:15:50.27,0:15:52.73,Default,,0,0,0,,She is the priestess who, \Nin a previous batle...
+Dialogue: 0,0:15:52.73,0:15:55.36,Default,,0,0,0,,...once force-fed me a \Nmass of rotten dairy!
+Dialogue: 0,0:15:55.69,0:15:58.06,Default,,0,0,0,,I couldn't wish for a worthier opponent.
+Dialogue: 0,0:15:58.32,0:16:00.31,Default,,0,0,0,,Now, come at me!
+Dialogue: 0,0:16:05.91,0:16:08.25,Default,,0,0,0,,Hey, you! Your hand! Your hand!
+Dialogue: 0,0:16:09.11,0:16:09.86,Default,,0,0,0,,DUMMY
+Dialogue: 0,0:16:11.58,0:16:14.21,Default,,0,0,0,,I know your intent now.
+Dialogue: 0,0:16:14.84,0:16:17.59,Default,,0,0,0,,No! You're wrong! This \Nisn't what it looks like!
+Dialogue: 0,0:16:17.59,0:16:19.30,Default,,0,0,0,,This is Fake Morisummer's doing!
+Dialogue: 0,0:16:19.30,0:16:21.84,Default,,0,0,0,,Hey! It your fault to begin with.
+Dialogue: 0,0:16:21.84,0:16:24.80,Default,,0,0,0,,I deeply respect you, Priestess!
+Dialogue: 0,0:16:24.80,0:16:28.59,Default,,0,0,0,,As my master's sister, \NI am at your command!
+Dialogue: 0,0:16:28.59,0:16:31.17,Default,,0,0,0,,Stop trying to throw me under the bus!
+Dialogue: 0,0:16:31.40,0:16:33.59,Default,,0,0,0,,You two are such good friends.
+Dialogue: 0,0:16:36.07,0:16:37.82,Default,,0,0,0,,I'm sorry. My hand slipped.
+Dialogue: 0,0:16:37.82,0:16:38.81,Default,,0,0,0,,What?!
+Dialogue: 0,0:16:39.11,0:16:40.35,Default,,0,0,0,,All hands, prepare for combat!
+Dialogue: 0,0:16:40.53,0:16:42.79,Default,,0,0,0,,Assume positions and \Nprepare to intercept!
+Dialogue: 0,0:16:43.78,0:16:44.90,Default,,0,0,0,,Be destroyed, real.
+Dialogue: 0,0:16:44.90,0:16:46.41,Default,,0,0,0,,Blow up, synapses!
+Dialogue: 0,0:16:46.41,0:16:48.98,Default,,0,0,0,,Vanishment This World!
+Dialogue: 0,0:17:15.77,0:17:18.76,Default,,0,0,0,,Dark Matter Blaze.
+Dialogue: 0,0:17:22.86,0:17:24.24,Default,,0,0,0,,It's no good.
+Dialogue: 0,0:17:24.24,0:17:27.66,Default,,0,0,0,,She easily deflected \Nyour Dark Matter Blaze.
+Dialogue: 0,0:17:28.24,0:17:29.69,Default,,0,0,0,,She's unbelievable.
+Dialogue: 0,0:17:30.79,0:17:32.23,Default,,0,0,0,,It's all or nothing!
+Dialogue: 0,0:17:33.96,0:17:34.58,Default,,0,0,0,,L!
+Dialogue: 0,0:17:34.58,0:17:35.25,Default,,0,0,0,,L! O!
+Dialogue: 0,0:17:35.25,0:17:35.75,Default,,0,0,0,,L! O! V!
+Dialogue: 0,0:17:35.75,0:17:36.42,Default,,0,0,0,,L! O! V! E!
+Dialogue: 0,0:17:36.42,0:17:38.42,Default,,0,0,0,,Yay!
+Dialogue: 0,0:17:41.72,0:17:43.59,Default,,0,0,0,,How about a physical attack?
+Dialogue: 0,0:17:43.59,0:17:45.71,Default,,0,0,0,,Direct Impact!
+Dialogue: 0,0:17:51.98,0:17:53.00,Default,,0,0,0,,Machine Gun!
+Dialogue: 0,0:17:52.98,0:17:54.00,OS,,0,0,0,,(DEMON GOD GUN) MA SHIN GAN
+Dialogue: 0,0:17:53.94,0:17:53.98,Default,,0,0,0,,Machine Gun!
+Dialogue: 0,0:18:01.11,0:18:01.91,Default,,0,0,0,,Yuta!
+Dialogue: 0,0:18:02.28,0:18:03.65,Default,,0,0,0,,Schwarz Shield!
+Dialogue: 0,0:18:04.36,0:18:05.56,Default,,0,0,0,,Arrostire!
+Dialogue: 0,0:18:06.62,0:18:07.98,Default,,0,0,0,,What's arrostire?
+Dialogue: 0,0:18:08.24,0:18:09.96,Default,,0,0,0,,It means "oven roasted."
+Dialogue: 0,0:18:11.66,0:18:12.75,Default,,0,0,0,,Yuta!
+Dialogue: 0,0:18:12.75,0:18:14.19,Default,,0,0,0,,Too hot!
+Dialogue: 0,0:18:22.51,0:18:23.68,Default,,0,0,0,,You shacked up?!
+Dialogue: 0,0:18:23.68,0:18:24.87,Default,,0,0,0,,Really?
+Dialogue: 0,0:18:25.05,0:18:27.37,Default,,0,0,0,,Like I said, it's not what you think.
+Dialogue: 0,0:18:27.55,0:18:29.24,Default,,0,0,0,,In what way?
+Dialogue: 0,0:18:29.24,0:18:32.79,Default,,0,0,0,,You're living together as \Nboyfriend and girlfriend.
+Dialogue: 0,0:18:32.79,0:18:35.26,Default,,0,0,0,,Please control your \Ndisgusting imagination.
+Dialogue: 0,0:18:35.44,0:18:37.40,Default,,0,0,0,,What do you mean, disgusting?
+Dialogue: 0,0:18:37.40,0:18:40.69,Default,,0,0,0,,I think you're the one \Nwith the dirty mind.
+Dialogue: 0,0:18:40.69,0:18:45.27,Default,,0,0,0,,W-what? I, Dekomori, am \Nalways pure of thought!
+Dialogue: 0,0:18:46.45,0:18:48.00,Default,,0,0,0,,You've gone beet red.
+Dialogue: 0,0:18:48.00,0:18:49.90,Default,,0,0,0,,For a little kid, you \Nhave a really dirty mind.
+Dialogue: 0,0:18:49.90,0:18:53.00,Default,,0,0,0,,Be quiet! Be quiet, \Nyou big-boobed freak!
+Dialogue: 0,0:18:53.00,0:18:54.15,Default,,0,0,0,,Hey, stop that!
+Dialogue: 0,0:18:54.41,0:18:57.03,Default,,0,0,0,,Shacking is sooo shocking!
+Dialogue: 0,0:18:57.88,0:18:59.42,Default,,0,0,0,,That hurt.
+Dialogue: 0,0:19:00.75,0:19:03.97,Default,,0,0,0,,Anyway, it's really \Nnot what you think...
+Dialogue: 0,0:19:03.97,0:19:05.41,Default,,0,0,0,,...and we had no choice.
+Dialogue: 0,0:19:05.51,0:19:08.10,Default,,0,0,0,,You're saying that a full grown \Nboy like yourself had no choice...
+Dialogue: 0,0:19:08.10,0:19:10.18,Default,,0,0,0,,....but to shack up with \Nmy little sister with whom
+Dialogue: 0,0:19:10.18,0:19:11.91,Default,,0,0,0,,you are in a romantic relationship?
+Dialogue: 0,0:19:11.91,0:19:13.84,Default,,0,0,0,,That's not what I meant.
+Dialogue: 0,0:19:13.84,0:19:15.77,Default,,0,0,0,,You are not in a romantic relationship?
+Dialogue: 0,0:19:15.77,0:19:16.76,Default,,0,0,0,,Uh, no...
+Dialogue: 0,0:19:16.89,0:19:18.23,Default,,0,0,0,,You guys split up?
+Dialogue: 0,0:19:18.23,0:19:19.77,Default,,0,0,0,,You dissolved your pact?
+Dialogue: 0,0:19:19.77,0:19:21.07,Default,,0,0,0,,Who dumped whom?
+Dialogue: 0,0:19:21.07,0:19:23.60,Default,,0,0,0,,Quit it! I'm saying we \Nare not "shacking up!"
+Dialogue: 0,0:19:23.90,0:19:25.01,Default,,0,0,0,,How is that different?
+Dialogue: 0,0:19:25.99,0:19:28.03,Default,,0,0,0,,Yes, we are living together...
+Dialogue: 0,0:19:28.03,0:19:29.99,Default,,0,0,0,,...but it's mostly because I was
+Dialogue: 0,0:19:29.99,0:19:31.92,Default,,0,0,0,,concerned about leaving \NRikka on her own.
+Dialogue: 0,0:19:31.92,0:19:35.61,Default,,0,0,0,,It's been almost a week now, and \Nnothing of the sort is going on.
+Dialogue: 0,0:19:35.75,0:19:36.79,Default,,0,0,0,,Of what sort?
+Dialogue: 0,0:19:36.79,0:19:37.73,Default,,0,0,0,,Beat it, all of you!
+Dialogue: 0,0:19:38.46,0:19:39.49,Default,,0,0,0,,How about it?
+Dialogue: 0,0:19:40.08,0:19:42.05,Default,,0,0,0,,Our contract remains unaltered.
+Dialogue: 0,0:19:42.05,0:19:44.80,Default,,0,0,0,,In other words, we're \Nnot "living together"...
+Dialogue: 0,0:19:45.13,0:19:47.26,Default,,0,0,0,,...that's it! We're roommates!
+Dialogue: 0,0:19:47.26,0:19:49.19,Default,,0,0,0,,It's a home share situation. You know!
+Dialogue: 0,0:19:49.19,0:19:49.83,Default,,0,0,0,,Ow!
+Dialogue: 0,0:19:50.01,0:19:52.26,Default,,0,0,0,,Do you think that logic will fly by me?
+Dialogue: 0,0:19:52.26,0:19:54.39,Default,,0,0,0,,Do you think I will permit that?
+Dialogue: 0,0:19:54.39,0:19:56.46,Default,,0,0,0,,You are a boy!
+Dialogue: 0,0:19:56.46,0:19:57.48,Default,,0,0,0,,My magazine!
+Dialogue: 0,0:19:57.48,0:19:59.63,Default,,0,0,0,,No matter what, you \Ncannot live together.
+Dialogue: 0,0:19:59.90,0:20:02.36,Default,,0,0,0,,I will find her an apartment. If \Nyou have a problem with that...
+Dialogue: 0,0:20:02.36,0:20:04.18,Default,,0,0,0,,...I will take Rikka to Italy with me.
+Dialogue: 0,0:20:04.53,0:20:05.51,Default,,0,0,0,,Italy?
+Dialogue: 0,0:20:05.78,0:20:08.50,Default,,0,0,0,,The magical society! The Cardinal!
+Dialogue: 0,0:20:09.13,0:20:11.77,Default,,0,0,0,,Am I to be imprisoned in such a place?
+Dialogue: 0,0:20:12.16,0:20:15.01,Default,,0,0,0,,Italy is home to the occult!
+Dialogue: 0,0:20:15.01,0:20:17.19,Default,,0,0,0,,The Vatican, Sixth Sense, \NI see dead people!
+Dialogue: 0,0:20:17.47,0:20:19.04,Default,,0,0,0,,Home to the occult?
+Dialogue: 0,0:20:19.04,0:20:20.97,Default,,0,0,0,,So, you want to go now?
+Dialogue: 0,0:20:21.50,0:20:22.11,Default,,0,0,0,,Yes?
+Dialogue: 0,0:20:23.04,0:20:24.12,Default,,0,0,0,,I'm home.
+Dialogue: 0,0:20:25.00,0:20:26.00,Default,,0,0,0,,Good evening.
+Dialogue: 0,0:20:26.42,0:20:28.33,Default,,0,0,0,,Kuzuha, why are you here?
+Dialogue: 0,0:20:28.93,0:20:30.47,Default,,0,0,0,,I came home.
+Dialogue: 0,0:20:30.47,0:20:33.62,Default,,0,0,0,,Surely you were told I was coming \Nback for the new school term.
+Dialogue: 0,0:20:34.01,0:20:35.88,Default,,0,0,0,,I was told? By who?
+Dialogue: 0,0:20:36.14,0:20:37.26,Default,,0,0,0,,By Mom.
+Dialogue: 0,0:20:40.10,0:20:41.67,Default,,0,0,0,,Oops, I forgot!
+Dialogue: 0,0:20:42.40,0:20:44.18,Default,,0,0,0,,Rikka has been living here?
+Dialogue: 0,0:20:44.84,0:20:45.93,Default,,0,0,0,,What's so bad about that?
+Dialogue: 0,0:20:46.07,0:20:46.78,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:46.78,0:20:49.00,Default,,0,0,0,,After all, she doesn't have \Nher own place, right?
+Dialogue: 0,0:20:49.00,0:20:50.84,Default,,0,0,0,,We have plenty of rooms here.
+Dialogue: 0,0:20:51.91,0:20:53.19,Default,,0,0,0,,You're really sure?
+Dialogue: 0,0:20:56.15,0:21:00.62,Default,,0,0,0,,To be honest, I was also concerned \Nabout leaving Rikka on her own.
+Dialogue: 0,0:21:01.04,0:21:04.07,Default,,0,0,0,,If you would act as supervisor, \Nit should be okay.
+Dialogue: 0,0:21:05.21,0:21:08.58,Default,,0,0,0,,I'm sorry. Please let her stay \Nhere just a little longer.
+Dialogue: 0,0:21:09.76,0:21:10.58,Default,,0,0,0,,Sure.
+Dialogue: 0,0:21:10.93,0:21:12.76,Default,,0,0,0,,Understood. You can count on me.
+Dialogue: 0,0:21:13.52,0:21:16.33,Default,,0,0,0,,Hurry up and find your own place.
+Dialogue: 0,0:21:17.31,0:21:21.76,Default,,0,0,0,,And so, my life alone with \NRikka came to an abrupt end...
+Dialogue: 0,0:21:21.76,0:21:24.26,OS,,0,0,0,,TOGASHI MAIL FOR NAKANISHI HERE
+Dialogue: 0,0:21:22.48,0:21:25.16,Default,,0,0,0,,...and three teenagers began \Nlife together in spring.
+Dialogue: 0,0:21:29.32,0:21:32.39,Default,,0,0,0,,Yuta's notebook. I forgot \Nto return it to him.
+Dialogue: 0,0:21:43.00,0:21:44.15,Default,,0,0,0,,Rikka?
+Dialogue: 0,0:21:48.80,0:21:50.03,Default,,0,0,0,,Not again.
+Dialogue: 0,0:21:53.01,0:21:53.77,Default,,0,0,0,,What the-?
+Dialogue: 0,0:21:55.05,0:21:57.09,Default,,0,0,0,,Did someone new move in?
+Dialogue: 0,0:21:58.01,0:22:00.96,Default,,0,0,0,,She never was able to \Nget her apartment back.
+Dialogue: 0,0:22:12.76,0:22:14.77,Default,,0,0,0,,To Be Continued
+Dialogue: 0,0:22:14.86,0:22:16.77,Default,,0,0,0,,
+Dialogue: 0,0:22:16.77,0:22:18.77,Default,,0,0,0,,
+Dialogue: 0,0:22:29.87,0:22:32.32,Default,,0,0,0,,
