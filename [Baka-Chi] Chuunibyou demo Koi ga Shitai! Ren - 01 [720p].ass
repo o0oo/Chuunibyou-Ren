@@ -7,13 +7,13 @@ WrapStyle: 0
 PlayResX: 848
 PlayResY: 480
 Audio URI: [HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 01 [480p].mkv
-Scroll Position: 126
-Active Line: 135
+Scroll Position: 237
+Active Line: 248
 Video Zoom Percent: 1
 Video File: [HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 01 [480p].mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.77708
-Video Position: 11350
+Video Position: 18280
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -164,11 +164,11 @@ Dialogue: 0,0:07:48.45,0:07:50.75,Default,,0,0,0,,Senpai, if I might have a word
 Dialogue: 0,0:07:51.41,0:07:53.38,Default,,0,0,0,,Morisummer-chan, where are we going?
 Dialogue: 0,0:07:55.46,0:07:56.99,OS,,0,0,0,,DEKO                                                                                                      \NDEKO MIDDLE                                                                                               MIDDLE
 Dialogue: 0,0:07:55.59,0:07:56.99,Default,,0,0,0,,Death.
-Dialogue: 0,0:07:57.42,0:08:02.50,Default,,0,0,0,,And so, let's all share \Nanother lively school year.
+Dialogue: 0,0:07:57.42,0:08:02.50,Default,,0,0,0,,So then, let's make this year another energetic year for students!
 Dialogue: 0,0:08:02.85,0:08:04.63,Default,,0,0,0,,{\a6}Thank you for that speech.
 Dialogue: 0,0:08:03.10,0:08:04.64,Default,,0,0,0,,I'll show you.
 Dialogue: 0,0:08:04.64,0:08:06.49,Default,,0,0,0,,I made a lot of mistakes...
-Dialogue: 0,0:08:06.49,0:08:08.00,Default,,0,0,0,,...but that's all going \Nto change this year.
+Dialogue: 0,0:08:06.49,0:08:08.00,Default,,0,0,0,,but my second year will be completely different.
 Dialogue: 0,0:08:08.73,0:08:12.94,Default,,0,0,0,,I swear I will claw my way \Nto the top of this school!
 Dialogue: 0,0:08:08.98,0:08:11.56,Default,,0,0,0,,{\a6}The next speech comes \Nfrom our new students...
 Dialogue: 0,0:08:11.56,0:08:13.96,Default,,0,0,0,,{\a6}...represented by Sanae Dekomori.
@@ -176,7 +176,7 @@ Dialogue: 0,0:08:13.96,0:08:14.59,Default,,0,0,0,,Wha-?!
 Dialogue: 0,0:08:18.19,0:08:20.98,Default,,0,0,0,,{\a6}I am the new student \Nrepresentative, Sanae Dekomori.
 Dialogue: 0,0:08:22.03,0:08:23.98,Default,,0,0,0,,{\a6}With the warm days of Spring...
 Dialogue: 0,0:08:24.41,0:08:26.87,Default,,0,0,0,,{\a6}...the trees become enrobed \Nin fresh, new green livery.
-Dialogue: 0,0:08:25.16,0:08:29.22,Default,,0,0,0,,They say that she got better grades \Nthan you had last year, Nibutani.
+Dialogue: 0,0:08:25.16,0:08:29.22,Default,,0,0,0,,They say that she got better grades \Nthan you had last year, Nibutani-san.
 Dialogue: 0,0:08:26.87,0:08:30.23,Default,,0,0,0,,{\a6}Our student lives also begin anew.
 Dialogue: 0,0:08:29.22,0:08:30.23,Default,,0,0,0,,Oh, really?
 Dialogue: 0,0:08:30.23,0:08:31.40,Default,,0,0,0,,That's amazing.
@@ -184,41 +184,41 @@ Dialogue: 0,0:08:31.94,0:08:32.95,Default,,0,0,0,,Deko!
 Dialogue: 0,0:08:32.95,0:08:35.17,Default,,0,0,0,,Hey, what happened?
 Dialogue: 0,0:08:41.34,0:08:42.37,Default,,0,0,0,,Ahem.
 Dialogue: 0,0:08:42.97,0:08:45.60,Default,,0,0,0,,I believe everyone knows \Nthat in this world...
-Dialogue: 0,0:08:45.60,0:08:48.29,Default,,0,0,0,,...there are white \Nworlds and dark worlds.
+Dialogue: 0,0:08:45.60,0:08:48.29,Default,,0,0,0,,...there are white and black worlds.
 Dialogue: 0,0:08:48.29,0:08:48.79,Default,,0,0,0,,Wha-?
 Dialogue: 0,0:08:49.64,0:08:52.94,Default,,0,0,0,,"Seeing spirits requires \Nthe proper heart."
 Dialogue: 0,0:08:53.19,0:08:55.14,Default,,0,0,0,,"Love is everything."
 Dialogue: 0,0:08:58.57,0:09:00.32,Default,,0,0,0,,Hey, are you feeling all right?
-Dialogue: 0,0:09:00.32,0:09:03.28,Default,,0,0,0,,Sensei, Nibutani has fainted!
+Dialogue: 0,0:09:00.32,0:09:03.28,Default,,0,0,0,,Sensei, Nibutani-san has fainted!
 Dialogue: 0,0:09:03.28,0:09:04.94,Default,,0,0,0,,What are they doing?
 Dialogue: 0,0:09:05.12,0:09:07.44,Default,,0,0,0,,We share the same class \Nonce again, Light Being.
-Dialogue: 0,0:09:08.95,0:09:10.73,Default,,0,0,0,,What ever are you saying, Takanashi?
+Dialogue: 0,0:09:08.95,0:09:10.73,Default,,0,0,0,,What are you saying, Takanashi-san?
 Dialogue: 0,0:09:10.96,0:09:11.79,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:09:11.79,0:09:13.06,Default,,0,0,0,,Takanashi!
+Dialogue: 0,0:09:11.79,0:09:13.06,Default,,0,0,0,,Takanashi-san!
 Dialogue: 0,0:09:14.22,0:09:15.59,Default,,0,0,0,,We're in the same class.
 Dialogue: 0,0:09:15.59,0:09:17.04,Default,,0,0,0,,Let's have another good year.
 Dialogue: 0,0:09:17.50,0:09:18.53,Default,,0,0,0,,Let's.
-Dialogue: 0,0:09:18.53,0:09:20.70,Default,,0,0,0,,Miss Nanase is our home room teacher.
+Dialogue: 0,0:09:18.53,0:09:20.70,Default,,0,0,0,, Nanase-sensei is our home room teacher.
 Dialogue: 0,0:09:20.97,0:09:22.37,Default,,0,0,0,,Togashi.
 Dialogue: 0,0:09:22.68,0:09:25.16,Default,,0,0,0,,They told to get my hair \Ncut for school tomorrow.
 Dialogue: 0,0:09:25.16,0:09:26.03,Default,,0,0,0,,What'll I do?
-Dialogue: 0,0:09:26.03,0:09:28.47,Default,,0,0,0,,How should I know? It's \Nyour own damned fault.
+Dialogue: 0,0:09:26.03,0:09:28.47,Default,,0,0,0,,Like I would know? This is your bad.
 Dialogue: 0,0:09:28.47,0:09:30.73,Default,,0,0,0,,Wait, are we in the same class again?
 Dialogue: 0,0:09:30.73,0:09:32.25,Default,,0,0,0,,No, I'm in Class 3 next door.
-Dialogue: 0,0:09:32.48,0:09:33.48,Default,,0,0,0,,Thank God.
+Dialogue: 0,0:09:32.48,0:09:33.48,Default,,0,0,0,,Really?
 Dialogue: 0,0:09:33.48,0:09:34.46,Default,,0,0,0,,Is that relief?!
 Dialogue: 0,0:09:34.46,0:09:37.65,Default,,0,0,0,,You made no attempt to hide your relief!
-Dialogue: 0,0:09:37.65,0:09:39.39,Default,,0,0,0,,Togashi, a moment.
-Dialogue: 0,0:09:39.39,0:09:40.85,Default,,0,0,0,,Who is this beautiful girl?
+Dialogue: 0,0:09:37.65,0:09:39.39,Default,,0,0,0,,Togashi-kun, a moment.
+Dialogue: 0,0:09:39.39,0:09:40.85,Default,,0,0,0,,Who is this beauty?
 Dialogue: 0,0:09:41.24,0:09:42.40,Default,,0,0,0,,Pleased to meet you.
 Dialogue: 0,0:09:42.40,0:09:45.73,Default,,0,0,0,,Are you Togashi's friend? My name is...
 Dialogue: 0,0:09:44.41,0:09:45.73,Default,,0,0,0,,{\a6}Pot, meet kettle.
-Dialogue: 0,0:09:46.41,0:09:49.10,Default,,0,0,0,,I'm only bringing this up \Nbecause we share a classroom.
-Dialogue: 0,0:09:49.45,0:09:52.58,Default,,0,0,0,,I have clearly instructed \NTakanashi not to share...
-Dialogue: 0,0:09:52.58,0:09:55.46,Default,,0,0,0,,...our middle school \Nmemories with anyone.
+Dialogue: 0,0:09:46.41,0:09:49.10,Default,,0,0,0,,I'm only bringing this up \Nbecause we're in the same class.
+Dialogue: 0,0:09:49.45,0:09:52.58,Default,,0,0,0,,I told Tatenashi-san not to mention our middle school
+Dialogue: 0,0:09:52.58,0:09:55.46,Default,,0,0,0,,memories at all.
 Dialogue: 0,0:09:55.46,0:09:56.99,Default,,0,0,0,,Are you still on that?
 Dialogue: 0,0:09:57.67,0:09:59.96,Default,,0,0,0,,I pondered all summer break.
-Dialogue: 0,0:09:59.96,0:10:03.25,Default,,0,0,0,,I pondered my decision to attend \Nthis particular high school.
+Dialogue: 0,0:09:59.96,0:10:03.25,Default,,0,0,0,,I pondered about going to this high school.
 Dialogue: 0,0:10:03.76,0:10:06.50,Default,,0,0,0,,Do I really intend to spend three \Nyears of my life in that loser's club?
 Dialogue: 0,0:10:07.97,0:10:09.60,Default,,0,0,0,,Hey, are you okay?
 Dialogue: 0,0:10:09.60,0:10:11.43,Default,,0,0,0,,Servant to Wicked Lord Shingan!
@@ -246,7 +246,7 @@ Dialogue: 0,0:11:06.70,0:11:09.78,Default,,0,0,0,,Please report to the staff \Nr
 Dialogue: 0,0:11:09.91,0:11:11.90,Default,,0,0,0,,Rikka Takanashi from Year 2, Class 4,
 Dialogue: 0,0:11:11.90,0:11:13.90,Default,,0,0,0,,please report to the \Nstaff room immediately.
 Dialogue: 0,0:11:13.90,0:11:16.33,Default,,0,0,0,,The school has been \Noverrun by terrorists!
-Dialogue: 0,0:11:17.21,0:11:18.63,Default,,0,0,0,,Hardly.
+Dialogue: 0,0:11:17.21,0:11:18.63,Default,,0,0,0,,Nah.
 Dialogue: 0,0:11:27.43,0:11:28.47,Default,,0,0,0,,Letters?
 Dialogue: 0,0:11:28.47,0:11:32.08,Default,,0,0,0,,That's the thing. The school mailed \Nat least three to your home.
 Dialogue: 0,0:11:32.43,0:11:34.39,Default,,0,0,0,,They all came back returned to sender.
@@ -260,12 +260,12 @@ Dialogue: 0,0:11:48.99,0:11:49.52,Default,,0,0,0,,Why not?
 Dialogue: 0,0:11:50.32,0:11:51.74,Default,,0,0,0,,My eye! My eye!
 Dialogue: 0,0:11:51.74,0:11:53.06,Default,,0,0,0,,That's way too weak!
 Dialogue: 0,0:11:53.06,0:11:54.06,OS,,0,0,0,,Far-East Magical Napping \NSociety - Summer Thereof
-Dialogue: 0,0:11:54.58,0:11:58.57,Default,,0,0,0,,She seemed to buy it, but we \Ncan't keep this up forever.
+Dialogue: 0,0:11:54.58,0:11:58.57,Default,,0,0,0,,She seemed to buy it, but at this rate, it'll be horrible.
 Dialogue: 0,0:11:58.57,0:12:00.71,Default,,0,0,0,,Don't say that.
 Dialogue: 0,0:12:00.71,0:12:02.22,Default,,0,0,0,,But it's hard.
 Dialogue: 0,0:12:02.88,0:12:04.95,Default,,0,0,0,,Can't you just try to take a bite?
-Dialogue: 0,0:12:11.26,0:12:13.67,Default,,0,0,0,,Come over here and join us, Rikka.
-Dialogue: 0,0:12:14.10,0:12:15.16,Default,,0,0,0,,No, thank you.
+Dialogue: 0,0:12:11.26,0:12:13.67,Default,,0,0,0,,Come over here and sit down with us, Rikka.
+Dialogue: 0,0:12:14.10,0:12:15.16,Default,,0,0,0,,No, I'm good.
 Dialogue: 0,0:12:15.47,0:12:17.93,Default,,0,0,0,,The incubus lives in that coffin.
 Dialogue: 0,0:12:17.93,0:12:21.80,Default,,0,0,0,,Even one forged in the darkness \Nsuch as I dare not approach.
 Dialogue: 0,0:12:22.40,0:12:25.68,Default,,0,0,0,,I once experienced a frightening \Ndream while under its influence.
