@@ -8,12 +8,12 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 Video Zoom Percent: 1
-Scroll Position: 10
-Active Line: 21
-Video File: I:/VIDEO/Anime/[Baka-Chi] Chuunibyou demo koi ga shitai ren/Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
+Scroll Position: 27
+Active Line: 37
+Video File: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
 Video Aspect Ratio: c1.77778
-Video Position: 12453
-Audio URI: I:/VIDEO/Anime/[Baka-Chi] Chuunibyou demo koi ga shitai ren/Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
+Video Position: 18972
+Audio URI: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
 YCbCr Matrix: TV.709
 Aegisub Scroll Position: 49
 Aegisub Active Line: 54
@@ -50,11 +50,21 @@ Dialogue: 0,0:07:29.82,0:07:30.00,OS,,0,0,0,,{\frz5\pos(892,636)}Making people l
 Dialogue: 0,0:07:31.33,0:07:31.78,OS,,0,0,0,,{\frz55\pos(443,620)}Making people laugh!
 Dialogue: 0,0:07:45.23,0:07:48.13,OS,,0,0,0,,{\frz50\fs15\pos(560,506)}Art of Comedic Conversation
 Dialogue: 0,0:07:48.57,0:07:48.92,OS,,0,0,0,,{\frz45\fs10\pos(432,523)}Making people laugh!
-Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(160,458,216,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
-Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(1146,464,1102,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
+Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(160,458,216,476,0,82)}{\be3}{\c&&H292930&}DEKOMORI
+Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(1146,464,1102,476,0,82)}{\be3}{\c&&H292930&}DEKOMORI
+Dialogue: 0,0:08:39.37,0:08:41.37,OS,,0,0,0,,{\frz5\pos(762,151)}High
+Dialogue: 0,0:09:47.90,0:09:55.80,OS,,0,0,0,,{\frz-93\fs8\pos(629,95)}Going out later is
+Dialogue: 0,0:09:47.90,0:09:55.80,OS,,0,0,0,,{\frz-93\fs8\pos(602,73)}a detour!
+Dialogue: 0,0:09:47.90,0:09:55.80,OS,,0,0,0,,{\frz-93\fs8\pos(581,72)}Wash hands!
+Dialogue: 0,0:09:55.78,0:10:05.06,OS,,0,0,0,,{\frz-90\pos(163,141)}Going out later is
+Dialogue: 0,0:09:55.78,0:10:05.06,OS,,0,0,0,,{\frz-90\pos(67,105)}a detour!
+Dialogue: 0,0:10:21.37,0:10:21.62,OS,,0,0,0,,{\frz-93\fs8\pos(523,337)}Going out later is
+Dialogue: 0,0:10:21.37,0:10:21.62,OS,,0,0,0,,{\frz-93\fs8\pos(499,324)}a detour!
+Dialogue: 0,0:10:21.37,0:10:21.62,OS,,0,0,0,,{\frz-93\fs8\pos(475,331)}Wash hands!
 Dialogue: 0,0:10:46.12,0:10:49.00,OS,,0,0,0,,{\pos(336,412)}{\fnViner Hand ITC}{\fs45}{\c&HAAF3F4&}Rich Cheese {\c&H2525AB&}(6 pcs)
-Dialogue: 0,0:11:51.94,0:11:52.94,OS,,0,0,0,,{\fs60\pos(632,114)}{\frz6.009\org(618,442)\pos(506,428)\frx0\fry356}{\fnKristen ITC}{\c&H333C3D&}Far-East Magical Napping Society \N Summer Version
+Dialogue: 0,0:11:51.94,0:11:52.94,OS,,0,0,0,,{\fs60\pos(606,237)\org(592,565)}{\frz6.009\org(618,442)\pos(506,428)\frx0\fry356}{\fnKristen ITC}{\c&H333C3D&}Far-East Magical Napping Society \N Summer Version
 Dialogue: 0,0:13:09.90,0:13:11.25,Default,,0,0,0,,{\a6\frz18.43\frx0\fry10\move(580,324,550,340,0,265)}{\c&H333B44&}{\fs50}FAKE
+Dialogue: 0,0:13:11.27,0:13:13.91,OS,,0,0,0,,{\frz85\pos(1198,158)}Emergency Exit
 Dialogue: 0,0:13:14.51,0:13:15.62,OS,,0,0,0,,{\move(662,632,650,514,0,877)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
 Dialogue: 0,0:13:15.63,0:13:16.44,OS,,0,0,0,,{\move(650,514,452,524,7,382)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
 Dialogue: 0,0:13:16.45,0:13:17.28,OS,,0,0,0,,{\move(452,524,448,696,7,605)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
