@@ -1,0 +1,37 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 0.75
+Scroll Position: 0
+Active Line: 4
+Video File: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
+Video Aspect Ratio: c1.77778
+Video Position: 17086
+Audio URI: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:40.11,0:03:45.49,Default,,0,0,0,,{\pos(353.333,274)}The Revival of...The Wicked Eye
+Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(160,458,216,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
+Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(1146,464,1102,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
+Dialogue: 0,0:10:46.12,0:10:49.00,OS,,0,0,0,,{\pos(336,412)}{\fnViner Hand ITC}{\fs45}{\c&HAAF3F4&}Rich Cheese {\c&H2525AB&}(6 pcs)
+Dialogue: 0,0:11:51.94,0:11:52.94,OS,,0,0,0,,{\fs60\pos(632,114)}{\frz6.009\org(618,442)\pos(506,428)\frx0\fry356}{\fnKristen ITC}{\c&H333C3D&}Far-East Magical Napping Society \N Summer Version
+Dialogue: 0,0:13:09.90,0:13:11.25,Default,,0,0,0,,{\a6\frz18.43\frx0\fry10\move(580,324,550,340,0,265)}{\c&H333B44&}{\fs50}FAKE
+Dialogue: 0,0:13:14.51,0:13:15.62,OS,,0,0,0,,{\move(662,632,650,514,0,877)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
+Dialogue: 0,0:13:15.63,0:13:16.44,OS,,0,0,0,,{\move(650,514,452,524,7,382)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
+Dialogue: 0,0:13:16.45,0:13:17.28,OS,,0,0,0,,{\move(452,524,448,696,7,605)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
+Dialogue: 0,0:15:59.14,0:15:59.90,Default,,0,0,0,,{\pos(580,546)\frz14.22}{/fnGill Sans Ultra Bold Condensed}{\c&H343B48&}DUMMY
+Dialogue: 0,0:17:42.63,0:17:43.79,OS,,0,0,0,,{\frx18\fry0\pos(458,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(100,0)}MA
+Dialogue: 0,0:17:42.71,0:17:43.79,OS,,0,0,0,,{\frx18\fry0\pos(568,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(200,0)}SHIN
+Dialogue: 0,0:17:42.81,0:17:43.79,OS,,0,0,0,,{\frx18\fry0\pos(800,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(200,0)}GAN{\fs25}(DEMON GOD GUN)
+Dialogue: 0,0:21:11.80,0:21:14.33,OS,,0,0,0,,{\frz23.53\pos(653,261)\frx338\fry36}{\fs25}{\c&H333347&}TOGASHI MAIL FOR NAKANISHI HERE
