@@ -541,3 +541,16 @@ Dialogue: 0,0:22:02.80,0:22:04.80,Default,,0,0,0,,To Be Continued
 Dialogue: 0,0:22:14.81,0:22:16.77,Default,,0,0,0,,
 Dialogue: 0,0:22:16.77,0:22:18.94,Default,,0,0,0,,
 Dialogue: 0,0:22:29.82,0:22:32.47,Default,,0,0,0,,
+Dialogue: 0,0:07:55.56,0:07:56.99,OS,,0,0,0,,{\move(160,458,216,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
+Dialogue: 0,0:07:55.56,0:07:56.99,OS,,0,0,0,,{\move(1146,464,1102,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
+Dialogue: 0,0:10:47.31,0:10:50.20,OS,,0,0,0,,{\pos(336,412)}{\fnViner Hand ITC}{\fs45}{\c&HAAF3F4&}Rich Cheese {\c&H2525AB&}(6 pcs)
+Dialogue: 0,0:11:53.06,0:11:54.06,OS,,0,0,0,,{\fs60\pos(632,114)}{\frz6.009\org(618,442)\pos(506,428)\frx0\fry356}{\fnKristen ITC}{\c&H333C3D&}Far-East Magical Napping Society \N Summer Thereof
+Dialogue: 0,0:13:11.11,0:13:11.51,Default,,0,0,0,,{\a6\frz18.43\frx0\fry10\move(580,324,550,340,0,265)}{\c&H333B44&}{\fs50}FAKE
+Dialogue: 0,0:13:15.92,0:13:17.03,OS,,0,0,0,,{\move(662,632,650,514,0,877)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
+Dialogue: 0,0:13:17.04,0:13:17.85,OS,,0,0,0,,{\move(650,514,452,524,7,382)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
+Dialogue: 0,0:13:17.86,0:13:18.69,OS,,0,0,0,,{\move(452,524,448,696,7,605)}{\c&H333B44&}{\fnCooper Black}PERMANENT MARKER
+Dialogue: 0,0:16:00.31,0:16:01.06,Default,,0,0,0,,{\pos(580,546)\frz14.22}{/fnGill Sans Ultra Bold Condensed}{\c&H343B48&}DUMMY
+Dialogue: 0,0:17:44.02,0:17:45.20,OS,,0,0,0,,{\frx18\fry0\pos(458,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(100,0)}MA
+Dialogue: 0,0:17:44.12,0:17:45.20,OS,,0,0,0,,{\frx18\fry0\pos(568,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(200,0)}SHIN
+Dialogue: 0,0:17:44.22,0:17:45.20,OS,,0,0,0,,{\frx18\fry0\pos(800,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(200,0)}GAN{\fs25}(DEMON GOD GUN)
+Dialogue: 0,0:21:12.94,0:21:15.41,OS,,0,0,0,,{\frz23.06\pos(628,270)\frx354\fry10}{\fs25}{\c&H333347&}TOGASHI MAIL FOR NAKANISHI HERE
