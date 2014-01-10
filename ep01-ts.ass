@@ -9,11 +9,11 @@ Collisions: Normal
 PlayResX: 1280
 PlayResY: 720
 Video Zoom Percent: 1
-Scroll Position: 0
-Active Line: 11
+Scroll Position: 10
+Active Line: 21
 Video File: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
 Video Aspect Ratio: c1.77778
-Video Position: 10404
+Video Position: 12453
 Audio URI: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
 YCbCr Matrix: TV.709
 
@@ -37,6 +37,15 @@ Dialogue: 0,0:03:29.80,0:03:30.00,OS,,0,0,0,,{\frz-160\fs10\pos(861,416)}Item Na
 Dialogue: 0,0:03:29.80,0:03:30.00,OS,,0,0,0,,{\frz-160\fs10\pos(897,465)}Person Name
 Dialogue: 0,0:03:29.80,0:03:30.00,OS,,0,0,0,,{\frz85\fs10\pos(486,374)}Item Name
 Dialogue: 0,0:03:40.11,0:03:45.49,Default,,0,0,0,,{\pos(353.333,274)}The Revival of...The Wicked Eye
+Dialogue: 0,0:07:13.91,0:07:20.56,OS,,0,0,0,,{\fs10\frz-56\pos(243,523)}Art of Comedic Conversation
+Dialogue: 0,0:07:13.91,0:07:20.56,OS,,0,0,0,,{\fs10\frz-50\pos(193,541)}Art of Comedic Conversation
+Dialogue: 0,0:07:13.91,0:07:20.56,OS,,0,0,0,,{\fs10\frz30\pos(268,455)}Making people laugh!
+Dialogue: 0,0:07:29.82,0:07:30.00,OS,,0,0,0,,{\frz-75\pos(530,708)}Art of Comedic Conversation
+Dialogue: 0,0:07:29.82,0:07:30.00,OS,,0,0,0,,{\frz-90\pos(702,703)}Art of Comedic Conversation
+Dialogue: 0,0:07:29.82,0:07:30.00,OS,,0,0,0,,{\frz5\pos(892,636)}Making people laugh!
+Dialogue: 0,0:07:31.33,0:07:31.78,OS,,0,0,0,,{\frz55\pos(443,620)}Making people laugh!
+Dialogue: 0,0:07:45.23,0:07:48.13,OS,,0,0,0,,{\frz50\fs15\pos(560,506)}Art of Comedic Conversation
+Dialogue: 0,0:07:48.57,0:07:48.92,OS,,0,0,0,,{\frz45\fs10\pos(432,523)}Making people laugh!
 Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(160,458,216,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
 Dialogue: 0,0:07:54.15,0:07:55.58,OS,,0,0,0,,{\move(1146,464,1102,476,0,82)}{\be3}{\c&&H292930&}DEKO \N\NMIDDLE
 Dialogue: 0,0:10:46.12,0:10:49.00,OS,,0,0,0,,{\pos(336,412)}{\fnViner Hand ITC}{\fs45}{\c&HAAF3F4&}Rich Cheese {\c&H2525AB&}(6 pcs)
