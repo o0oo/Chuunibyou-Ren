@@ -10,16 +10,12 @@ PlayResY: 720
 Video Zoom Percent: 1
 Scroll Position: 27
 Active Line: 37
-Video File: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
 Video Aspect Ratio: c1.77778
 Video Position: 18972
-Audio URI: Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
 YCbCr Matrix: TV.709
-Aegisub Scroll Position: 49
-Aegisub Active Line: 54
+Aegisub Scroll Position: 27
+Aegisub Active Line: 65
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 28520
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,6 +86,7 @@ Dialogue: 0,0:15:59.14,0:15:59.90,Default,,0,0,0,,{\pos(580,546)\frz14.22}{/fnGi
 Dialogue: 0,0:17:42.63,0:17:43.79,OS,,0,0,0,,{\frx18\fry0\pos(458,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(100,0)}MA
 Dialogue: 0,0:17:42.71,0:17:43.79,OS,,0,0,0,,{\frx18\fry0\pos(568,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(200,0)}SHIN
 Dialogue: 0,0:17:42.81,0:17:43.79,OS,,0,0,0,,{\frx18\fry0\pos(800,650)}{\c&H333347&}{\fs50}{\shad5}{\4c&HD9E6E8&}{\fad(200,0)}GAN{\fs25}(DEMON GOD GUN)
-Dialogue: 0,0:19:46.20,0:19:48.20,OS,,0,0,0,,Attention Idol Group
-Dialogue: 0,0:19:49.50,0:19:51.50,OS,,0,0,0,,Special girls poster and Dvd attached
+Dialogue: 0,0:19:46.20,0:19:48.20,OS,,0,0,0,,Top Left: monthly Top right: April issue Right: Attention Idol Group Below far right: debut appearance
+Dialogue: 0,0:19:49.50,0:19:51.50,OS,,0,0,0,, First magazine: top: monthly  Upper middle right: Special issue Middle right: Special girls poster and DVD attached   Middle left :to dominate interview  Bottom Left: dual sided pages
+Dialogue: 0,0:19:49.50,0:19:51.50,OS,,0,0,0,,2nd magazine: Top right: debut appearance on top to dominate interview    Bottom right: 50 idol trading cards included  Very bottom right: dual sided pages
 Dialogue: 0,0:21:11.80,0:21:14.33,OS,,0,0,0,,{\frz23.53\pos(653,261)\frx338\fry36}{\fs25}{\c&H333347&}TOGASHI MAIL FOR NAKANISHI HERE
