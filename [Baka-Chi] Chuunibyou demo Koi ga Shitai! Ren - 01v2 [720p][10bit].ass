@@ -6,18 +6,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
-Scroll Position: 15
-Active Line: 20
+Scroll Position: 0
+Active Line: 1
 Video Zoom Percent: 1
 YCbCr Matrix: TV.709
-Video Aspect Ratio: c1.77778
-Video Position: 1527
 ScaledBorderAndShadow: yes
 Aegisub Scroll Position: 2617
 Aegisub Active Line: 2618
 Aegisub Video Zoom Percent: 0.500000
-Audio URI: \\OCELOT\Storage\Media\Downloads\Chuunibyou demo Koi ga Shitai! Ren\Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
-Video File: \\OCELOT\Storage\Media\Downloads\Chuunibyou demo Koi ga Shitai! Ren\Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][10bit].mkv
 Aegisub Video Aspect Ratio: c1.777778
 Last Style Storage: Default
 Aegisub Video Position: 30493
@@ -52,7 +48,7 @@ Style: Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 9,0:00:13.06,0:00:17.99,Default,,0,0,0,,Because of my dad's job, my mom and sisters moved overseas,
-Dialogue: 9,0:00:17.99,0:00:21.25,Default,,0,0,0,,so starting this spring, I began living alone.
+Dialogue: 9,0:00:17.99,0:00:21.25,Default,,0,0,0,,so starting this spring, I was living alone.
 Dialogue: 9,0:00:22.16,0:00:27.72,Default,,0,0,0,,However, my first time living alone lasted only a few days.
 Dialogue: 9,0:00:30.02,0:00:32.53,Default,,0,0,0,,Hey, Rikka. I'm opening the door.
 Dialogue: 9,0:00:33.86,0:00:36.89,Default,,0,0,0,,Wake up, already. We start school today.
